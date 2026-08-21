@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-08-21T09:52:39.973644+00:00",
+  "strategy": {
+    "name": "P1 / SMA35 / SMA300",
+    "short_window": 35,
+    "long_window": 300,
+    "timezone": "UTC",
+    "watch_band_pct": 2.0,
+    "quote_currency": "EUR"
+  },
+  "signal": {
+    "as_of": "2026-08-20",
+    "signal": "CASH",
+    "short_sma": 56200.55512746468,
+    "long_sma": 66109.17753791771,
+    "gap_pct": -14.98827058432216,
+    "last_price": 62584.83588958156,
+    "watch_band": false,
+    "crossover": null,
+    "crossover_count_12m": 1,
+    "rapid_reversal_count_12m": 0
+  },
+  "data_health": {
+    "status": "ok",
+    "primary": "Uniswap V2 WBTC-USDC",
+    "primary_as_of": "2026-08-20",
+    "validation": "BTC-EUR",
+    "validation_as_of": "2026-08-20",
+    "validation_price": 62460.4,
+    "divergence_pct": 0.19922365143605347
+  }
+}

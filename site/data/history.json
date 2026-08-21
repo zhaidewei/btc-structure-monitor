@@ -1,0 +1,5842 @@
+[
+  {
+    "date": "2024-08-21",
+    "price": 55137.8,
+    "short_sma": 57080.94,
+    "long_sma": 51167.2,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-08-22",
+    "price": 54356.79,
+    "short_sma": 56963.87,
+    "long_sma": 51240.85,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-08-23",
+    "price": 57587.28,
+    "short_sma": 56852.04,
+    "long_sma": 51324.49,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-08-24",
+    "price": 57380.55,
+    "short_sma": 56730.93,
+    "long_sma": 51406.44,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-08-25",
+    "price": 57939.03,
+    "short_sma": 56602.61,
+    "long_sma": 51491.33,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-08-26",
+    "price": 56438.89,
+    "short_sma": 56448.63,
+    "long_sma": 51570.91,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-08-27",
+    "price": 53105.2,
+    "short_sma": 56225.44,
+    "long_sma": 51635.63,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-08-28",
+    "price": 53135.72,
+    "short_sma": 56016.86,
+    "long_sma": 51704.47,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-08-29",
+    "price": 53470.69,
+    "short_sma": 55824.59,
+    "long_sma": 51774.43,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-08-30",
+    "price": 53225.86,
+    "short_sma": 55557.69,
+    "long_sma": 51843.01,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-08-31",
+    "price": 53147.96,
+    "short_sma": 55286.1,
+    "long_sma": 51911.14,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-01",
+    "price": 51840.86,
+    "short_sma": 54978.42,
+    "long_sma": 51974.98,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-02",
+    "price": 53500.76,
+    "short_sma": 54734.51,
+    "long_sma": 52043.05,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-03",
+    "price": 52315.35,
+    "short_sma": 54482.3,
+    "long_sma": 52107.33,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-04",
+    "price": 52474.99,
+    "short_sma": 54260.45,
+    "long_sma": 52167.57,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-05",
+    "price": 50195.66,
+    "short_sma": 53972.99,
+    "long_sma": 52219.31,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-06",
+    "price": 48421.77,
+    "short_sma": 53733.87,
+    "long_sma": 52265.53,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-07",
+    "price": 48750.92,
+    "short_sma": 53523.99,
+    "long_sma": 52312.28,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-08",
+    "price": 49493.23,
+    "short_sma": 53399.76,
+    "long_sma": 52361.96,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-09",
+    "price": 51911.57,
+    "short_sma": 53470.59,
+    "long_sma": 52424.94,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-10",
+    "price": 52350.89,
+    "short_sma": 53498.39,
+    "long_sma": 52483.99,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-11",
+    "price": 51818.64,
+    "short_sma": 53536.3,
+    "long_sma": 52545.76,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-12",
+    "price": 52794.46,
+    "short_sma": 53423.29,
+    "long_sma": 52610.51,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-13",
+    "price": 54379.45,
+    "short_sma": 53393.6,
+    "long_sma": 52679.24,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-14",
+    "price": 54148.35,
+    "short_sma": 53345.18,
+    "long_sma": 52746.73,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-15",
+    "price": 53328.24,
+    "short_sma": 53327.26,
+    "long_sma": 52810.75,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-16",
+    "price": 52304.12,
+    "short_sma": 53266.77,
+    "long_sma": 52874.77,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-17",
+    "price": 54063.92,
+    "short_sma": 53224.82,
+    "long_sma": 52940.9,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-18",
+    "price": 55183.11,
+    "short_sma": 53274.63,
+    "long_sma": 53010.47,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-19",
+    "price": 56221.29,
+    "short_sma": 53391.74,
+    "long_sma": 53083.05,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-20",
+    "price": 56136.69,
+    "short_sma": 53461.97,
+    "long_sma": 53155.17,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-21",
+    "price": 56563.95,
+    "short_sma": 53534.68,
+    "long_sma": 53229.9,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-22",
+    "price": 56578.56,
+    "short_sma": 53624.63,
+    "long_sma": 53305.49,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-23",
+    "price": 56847.06,
+    "short_sma": 53716.01,
+    "long_sma": 53379.3,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-24",
+    "price": 57730.55,
+    "short_sma": 53836.58,
+    "long_sma": 53457.21,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-25",
+    "price": 56217.67,
+    "short_sma": 53867.43,
+    "long_sma": 53528.75,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-26",
+    "price": 58124.94,
+    "short_sma": 53975.09,
+    "long_sma": 53603.85,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-27",
+    "price": 58660.29,
+    "short_sma": 54005.75,
+    "long_sma": 53679.42,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-28",
+    "price": 58878.64,
+    "short_sma": 54048.55,
+    "long_sma": 53754.3,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-29",
+    "price": 59010.08,
+    "short_sma": 54079.15,
+    "long_sma": 53823.36,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-09-30",
+    "price": 56497.67,
+    "short_sma": 54080.83,
+    "long_sma": 53874.91,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-01",
+    "price": 54801.76,
+    "short_sma": 54129.3,
+    "long_sma": 53922.26,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-02",
+    "price": 54987.68,
+    "short_sma": 54182.22,
+    "long_sma": 53970.37,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-03",
+    "price": 54886.26,
+    "short_sma": 54222.66,
+    "long_sma": 54016.6,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-04",
+    "price": 56218.09,
+    "short_sma": 54308.15,
+    "long_sma": 54069.15,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-05",
+    "price": 56311.91,
+    "short_sma": 54398.55,
+    "long_sma": 54123.08,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-06",
+    "price": 56856.25,
+    "short_sma": 54541.85,
+    "long_sma": 54185.48,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-07",
+    "price": 57084.27,
+    "short_sma": 54644.24,
+    "long_sma": 54248.02,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-08",
+    "price": 56899.89,
+    "short_sma": 54775.22,
+    "long_sma": 54306.0,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-09",
+    "price": 55162.32,
+    "short_sma": 54852.0,
+    "long_sma": 54359.36,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-10",
+    "price": 54894.68,
+    "short_sma": 54986.26,
+    "long_sma": 54415.03,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-11",
+    "price": 57113.48,
+    "short_sma": 55234.6,
+    "long_sma": 54476.12,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-12",
+    "price": 57681.71,
+    "short_sma": 55489.76,
+    "long_sma": 54541.06,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-13",
+    "price": 57194.11,
+    "short_sma": 55709.79,
+    "long_sma": 54604.84,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-14",
+    "price": 60515.86,
+    "short_sma": 55955.62,
+    "long_sma": 54677.63,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-15",
+    "price": 60962.61,
+    "short_sma": 56201.67,
+    "long_sma": 54748.5,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-16",
+    "price": 62043.19,
+    "short_sma": 56493.8,
+    "long_sma": 54822.37,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-17",
+    "price": 61310.15,
+    "short_sma": 56737.11,
+    "long_sma": 54893.36,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-18",
+    "price": 63290.72,
+    "short_sma": 56991.72,
+    "long_sma": 54972.79,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-19",
+    "price": 63046.15,
+    "short_sma": 57245.94,
+    "long_sma": 55053.15,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-20",
+    "price": 63790.83,
+    "short_sma": 57544.87,
+    "long_sma": 55133.39,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-21",
+    "price": 62363.35,
+    "short_sma": 57832.28,
+    "long_sma": 55213.58,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-22",
+    "price": 62172.33,
+    "short_sma": 58063.95,
+    "long_sma": 55290.4,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-23",
+    "price": 61572.64,
+    "short_sma": 58246.5,
+    "long_sma": 55368.5,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-24",
+    "price": 62773.77,
+    "short_sma": 58433.72,
+    "long_sma": 55451.46,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-25",
+    "price": 61189.21,
+    "short_sma": 58578.07,
+    "long_sma": 55527.66,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-26",
+    "price": 61861.74,
+    "short_sma": 58729.44,
+    "long_sma": 55605.39,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-27",
+    "price": 62540.9,
+    "short_sma": 58899.79,
+    "long_sma": 55682.27,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-28",
+    "price": 64505.21,
+    "short_sma": 59118.6,
+    "long_sma": 55760.83,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-29",
+    "price": 67188.64,
+    "short_sma": 59388.83,
+    "long_sma": 55854.04,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-30",
+    "price": 66718.37,
+    "short_sma": 59688.85,
+    "long_sma": 55941.82,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-10-31",
+    "price": 64278.0,
+    "short_sma": 59864.65,
+    "long_sma": 56022.58,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-01",
+    "price": 63554.87,
+    "short_sma": 60004.5,
+    "long_sma": 56100.81,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-02",
+    "price": 63735.16,
+    "short_sma": 60143.25,
+    "long_sma": 56178.46,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-03",
+    "price": 63176.55,
+    "short_sma": 60262.29,
+    "long_sma": 56246.77,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-04",
+    "price": 62126.15,
+    "short_sma": 60423.11,
+    "long_sma": 56313.97,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-05",
+    "price": 63577.19,
+    "short_sma": 60673.84,
+    "long_sma": 56382.54,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-06",
+    "price": 70997.52,
+    "short_sma": 61131.26,
+    "long_sma": 56478.82,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-07",
+    "price": 70501.4,
+    "short_sma": 61577.41,
+    "long_sma": 56584.57,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-08",
+    "price": 71249.09,
+    "short_sma": 62006.86,
+    "long_sma": 56691.13,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-09",
+    "price": 70844.88,
+    "short_sma": 62422.09,
+    "long_sma": 56798.83,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-10",
+    "price": 73810.55,
+    "short_sma": 62906.5,
+    "long_sma": 56914.65,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-11",
+    "price": 82924.22,
+    "short_sma": 63644.78,
+    "long_sma": 57057.84,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-12",
+    "price": 83069.31,
+    "short_sma": 64392.48,
+    "long_sma": 57204.65,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-13",
+    "price": 83720.7,
+    "short_sma": 65208.44,
+    "long_sma": 57357.92,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-14",
+    "price": 82521.66,
+    "short_sma": 65997.78,
+    "long_sma": 57506.33,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-15",
+    "price": 85598.52,
+    "short_sma": 66811.64,
+    "long_sma": 57663.83,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-16",
+    "price": 85378.5,
+    "short_sma": 67602.97,
+    "long_sma": 57820.85,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-17",
+    "price": 85060.67,
+    "short_sma": 68399.16,
+    "long_sma": 57982.24,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-18",
+    "price": 86322.53,
+    "short_sma": 69136.49,
+    "long_sma": 58148.63,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-19",
+    "price": 87083.89,
+    "short_sma": 69882.82,
+    "long_sma": 58316.66,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-20",
+    "price": 88861.51,
+    "short_sma": 70649.05,
+    "long_sma": 58490.9,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-21",
+    "price": 92992.81,
+    "short_sma": 71554.27,
+    "long_sma": 58672.77,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-22",
+    "price": 95082.16,
+    "short_sma": 72462.6,
+    "long_sma": 58860.63,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-23",
+    "price": 93819.5,
+    "short_sma": 73341.84,
+    "long_sma": 59046.42,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-24",
+    "price": 93677.23,
+    "short_sma": 74195.74,
+    "long_sma": 59225.97,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-25",
+    "price": 88980.37,
+    "short_sma": 74956.22,
+    "long_sma": 59390.23,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-26",
+    "price": 87433.91,
+    "short_sma": 75677.98,
+    "long_sma": 59551.43,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-27",
+    "price": 91042.36,
+    "short_sma": 76519.97,
+    "long_sma": 59722.5,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-28",
+    "price": 90128.47,
+    "short_sma": 77301.54,
+    "long_sma": 59891.73,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-29",
+    "price": 92627.62,
+    "short_sma": 78199.78,
+    "long_sma": 60069.43,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-11-30",
+    "price": 92156.51,
+    "short_sma": 79065.34,
+    "long_sma": 60245.84,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-01",
+    "price": 92717.21,
+    "short_sma": 79927.52,
+    "long_sma": 60423.14,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-02",
+    "price": 90603.94,
+    "short_sma": 80673.2,
+    "long_sma": 60591.72,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-03",
+    "price": 90978.51,
+    "short_sma": 81352.91,
+    "long_sma": 60759.71,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-04",
+    "price": 93339.77,
+    "short_sma": 82113.52,
+    "long_sma": 60930.94,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-05",
+    "price": 90960.66,
+    "short_sma": 82875.88,
+    "long_sma": 61087.05,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-06",
+    "price": 94566.35,
+    "short_sma": 83761.93,
+    "long_sma": 61254.1,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-07",
+    "price": 93978.12,
+    "short_sma": 84626.01,
+    "long_sma": 61418.52,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-08",
+    "price": 94416.78,
+    "short_sma": 85518.59,
+    "long_sma": 61579.25,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-09",
+    "price": 92317.71,
+    "short_sma": 86381.2,
+    "long_sma": 61733.66,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-10",
+    "price": 92276.99,
+    "short_sma": 87201.2,
+    "long_sma": 61880.05,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-11",
+    "price": 96414.41,
+    "short_sma": 87927.4,
+    "long_sma": 62040.37,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-12",
+    "price": 95056.43,
+    "short_sma": 88628.97,
+    "long_sma": 62196.46,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-13",
+    "price": 95898.51,
+    "short_sma": 89333.24,
+    "long_sma": 62356.93,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-14",
+    "price": 95692.24,
+    "short_sma": 90043.16,
+    "long_sma": 62514.79,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-15",
+    "price": 97567.08,
+    "short_sma": 90721.92,
+    "long_sma": 62679.13,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-16",
+    "price": 99835.01,
+    "short_sma": 91205.08,
+    "long_sma": 62848.69,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-17",
+    "price": 99948.12,
+    "short_sma": 91687.34,
+    "long_sma": 63023.36,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-18",
+    "price": 96306.93,
+    "short_sma": 92046.94,
+    "long_sma": 63185.48,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-19",
+    "price": 93505.62,
+    "short_sma": 92360.77,
+    "long_sma": 63340.74,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-20",
+    "price": 93104.82,
+    "short_sma": 92575.24,
+    "long_sma": 63493.73,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-21",
+    "price": 93169.27,
+    "short_sma": 92797.83,
+    "long_sma": 63645.0,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-22",
+    "price": 91179.58,
+    "short_sma": 92972.65,
+    "long_sma": 63780.76,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-23",
+    "price": 90703.21,
+    "short_sma": 93097.82,
+    "long_sma": 63909.17,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-24",
+    "price": 94107.01,
+    "short_sma": 93298.48,
+    "long_sma": 64032.87,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-25",
+    "price": 95093.79,
+    "short_sma": 93476.54,
+    "long_sma": 64161.32,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-26",
+    "price": 91953.09,
+    "short_sma": 93446.84,
+    "long_sma": 64275.01,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-27",
+    "price": 90284.99,
+    "short_sma": 93309.77,
+    "long_sma": 64385.99,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-28",
+    "price": 90609.17,
+    "short_sma": 93218.05,
+    "long_sma": 64495.41,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-29",
+    "price": 88826.97,
+    "short_sma": 93079.47,
+    "long_sma": 64584.61,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-30",
+    "price": 88440.59,
+    "short_sma": 93064.05,
+    "long_sma": 64683.91,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2024-12-31",
+    "price": 89874.39,
+    "short_sma": 93133.78,
+    "long_sma": 64779.71,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-01",
+    "price": 90386.33,
+    "short_sma": 93115.03,
+    "long_sma": 64874.89,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-02",
+    "price": 93846.59,
+    "short_sma": 93221.27,
+    "long_sma": 64979.71,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-03",
+    "price": 95233.21,
+    "short_sma": 93295.71,
+    "long_sma": 65087.61,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-04",
+    "price": 95377.57,
+    "short_sma": 93387.74,
+    "long_sma": 65193.89,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-05",
+    "price": 94845.59,
+    "short_sma": 93448.55,
+    "long_sma": 65289.17,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-06",
+    "price": 97450.87,
+    "short_sma": 93644.18,
+    "long_sma": 65397.62,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-07",
+    "price": 92901.11,
+    "short_sma": 93699.11,
+    "long_sma": 65487.2,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-08",
+    "price": 92020.58,
+    "short_sma": 93661.42,
+    "long_sma": 65578.6,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-09",
+    "price": 89398.14,
+    "short_sma": 93616.78,
+    "long_sma": 65668.48,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-10",
+    "price": 91841.56,
+    "short_sma": 93538.92,
+    "long_sma": 65772.54,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-11",
+    "price": 92312.14,
+    "short_sma": 93491.33,
+    "long_sma": 65871.83,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-12",
+    "price": 91209.41,
+    "short_sma": 93399.69,
+    "long_sma": 65970.31,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-13",
+    "price": 92476.66,
+    "short_sma": 93404.23,
+    "long_sma": 66088.18,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-14",
+    "price": 93753.01,
+    "short_sma": 93446.4,
+    "long_sma": 66192.85,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-15",
+    "price": 96939.79,
+    "short_sma": 93461.41,
+    "long_sma": 66315.08,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-16",
+    "price": 97107.5,
+    "short_sma": 93520.01,
+    "long_sma": 66443.82,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-17",
+    "price": 101217.43,
+    "short_sma": 93671.98,
+    "long_sma": 66582.64,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-18",
+    "price": 100705.11,
+    "short_sma": 93815.21,
+    "long_sma": 66714.0,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-19",
+    "price": 98698.27,
+    "short_sma": 93847.53,
+    "long_sma": 66826.1,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-20",
+    "price": 99412.93,
+    "short_sma": 93835.47,
+    "long_sma": 66941.35,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-21",
+    "price": 102176.66,
+    "short_sma": 93899.14,
+    "long_sma": 67069.96,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-22",
+    "price": 99442.0,
+    "short_sma": 93988.71,
+    "long_sma": 67183.0,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-23",
+    "price": 100006.53,
+    "short_sma": 94174.45,
+    "long_sma": 67302.01,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-24",
+    "price": 100402.16,
+    "short_sma": 94382.95,
+    "long_sma": 67421.37,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-25",
+    "price": 99806.37,
+    "short_sma": 94572.58,
+    "long_sma": 67536.31,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-26",
+    "price": 98697.34,
+    "short_sma": 94787.37,
+    "long_sma": 67649.67,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-27",
+    "price": 96862.44,
+    "short_sma": 94963.35,
+    "long_sma": 67769.34,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-28",
+    "price": 96606.11,
+    "short_sma": 95034.75,
+    "long_sma": 67885.42,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-29",
+    "price": 99738.29,
+    "short_sma": 95167.45,
+    "long_sma": 68010.03,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-30",
+    "price": 100684.6,
+    "short_sma": 95416.93,
+    "long_sma": 68137.38,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-01-31",
+    "price": 98421.9,
+    "short_sma": 95649.41,
+    "long_sma": 68253.38,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-01",
+    "price": 97043.63,
+    "short_sma": 95833.25,
+    "long_sma": 68361.48,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-02",
+    "price": 93788.26,
+    "short_sma": 95975.0,
+    "long_sma": 68452.09,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-03",
+    "price": 99043.04,
+    "short_sma": 96277.93,
+    "long_sma": 68570.05,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-04",
+    "price": 94683.17,
+    "short_sma": 96415.32,
+    "long_sma": 68669.64,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-05",
+    "price": 92686.65,
+    "short_sma": 96481.05,
+    "long_sma": 68759.96,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-06",
+    "price": 93151.2,
+    "short_sma": 96461.18,
+    "long_sma": 68860.85,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-07",
+    "price": 92578.97,
+    "short_sma": 96385.34,
+    "long_sma": 68966.49,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-08",
+    "price": 92607.19,
+    "short_sma": 96306.19,
+    "long_sma": 69070.99,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-09",
+    "price": 92559.22,
+    "short_sma": 96240.86,
+    "long_sma": 69182.21,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-10",
+    "price": 94161.91,
+    "short_sma": 96146.89,
+    "long_sma": 69295.94,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-11",
+    "price": 92568.41,
+    "short_sma": 96137.39,
+    "long_sma": 69411.87,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-12",
+    "price": 93834.65,
+    "short_sma": 96189.22,
+    "long_sma": 69526.58,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-13",
+    "price": 92804.81,
+    "short_sma": 96286.55,
+    "long_sma": 69637.53,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-14",
+    "price": 92782.21,
+    "short_sma": 96313.43,
+    "long_sma": 69743.31,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-15",
+    "price": 92756.5,
+    "short_sma": 96326.12,
+    "long_sma": 69849.51,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-16",
+    "price": 91861.82,
+    "short_sma": 96344.76,
+    "long_sma": 69946.2,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-17",
+    "price": 91398.58,
+    "short_sma": 96313.96,
+    "long_sma": 70042.81,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-18",
+    "price": 90748.36,
+    "short_sma": 96228.11,
+    "long_sma": 70145.41,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-19",
+    "price": 92240.49,
+    "short_sma": 96093.85,
+    "long_sma": 70251.97,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-20",
+    "price": 93789.19,
+    "short_sma": 95999.04,
+    "long_sma": 70365.19,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-21",
+    "price": 91378.94,
+    "short_sma": 95717.94,
+    "long_sma": 70472.59,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-22",
+    "price": 92120.15,
+    "short_sma": 95472.66,
+    "long_sma": 70583.33,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-23",
+    "price": 91499.58,
+    "short_sma": 95266.98,
+    "long_sma": 70690.47,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-24",
+    "price": 87782.61,
+    "short_sma": 94934.68,
+    "long_sma": 70795.04,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-25",
+    "price": 84573.26,
+    "short_sma": 94431.73,
+    "long_sma": 70897.51,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-26",
+    "price": 80222.24,
+    "short_sma": 93882.59,
+    "long_sma": 70980.52,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-27",
+    "price": 80411.46,
+    "short_sma": 93322.73,
+    "long_sma": 71053.85,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-02-28",
+    "price": 80655.56,
+    "short_sma": 92758.55,
+    "long_sma": 71125.36,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-01",
+    "price": 82210.74,
+    "short_sma": 92255.81,
+    "long_sma": 71200.56,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-02",
+    "price": 90328.14,
+    "short_sma": 92016.69,
+    "long_sma": 71306.52,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-03",
+    "price": 82422.94,
+    "short_sma": 91604.14,
+    "long_sma": 71387.08,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-04",
+    "price": 82645.49,
+    "short_sma": 91205.26,
+    "long_sma": 71472.57,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-05",
+    "price": 84528.28,
+    "short_sma": 90770.69,
+    "long_sma": 71559.11,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-06",
+    "price": 83419.07,
+    "short_sma": 90277.39,
+    "long_sma": 71650.29,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-07",
+    "price": 79506.72,
+    "short_sma": 89736.96,
+    "long_sma": 71726.72,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-08",
+    "price": 79252.33,
+    "short_sma": 89228.63,
+    "long_sma": 71800.94,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-09",
+    "price": 74134.85,
+    "short_sma": 88667.11,
+    "long_sma": 71853.79,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-10",
+    "price": 72481.52,
+    "short_sma": 87908.21,
+    "long_sma": 71905.29,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-11",
+    "price": 75793.61,
+    "short_sma": 87368.5,
+    "long_sma": 71955.13,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-12",
+    "price": 76554.79,
+    "short_sma": 86907.59,
+    "long_sma": 72010.23,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-13",
+    "price": 74686.81,
+    "short_sma": 86380.04,
+    "long_sma": 72053.45,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-14",
+    "price": 77150.21,
+    "short_sma": 85939.22,
+    "long_sma": 72104.82,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-15",
+    "price": 77336.99,
+    "short_sma": 85502.93,
+    "long_sma": 72159.57,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-16",
+    "price": 75501.16,
+    "short_sma": 85015.55,
+    "long_sma": 72194.0,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-17",
+    "price": 76984.63,
+    "short_sma": 84524.77,
+    "long_sma": 72233.54,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-18",
+    "price": 75401.32,
+    "short_sma": 84034.29,
+    "long_sma": 72270.47,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-19",
+    "price": 79201.89,
+    "short_sma": 83616.21,
+    "long_sma": 72327.0,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-20",
+    "price": 77659.44,
+    "short_sma": 83183.48,
+    "long_sma": 72374.49,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-21",
+    "price": 77644.65,
+    "short_sma": 82750.98,
+    "long_sma": 72421.09,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-22",
+    "price": 77545.04,
+    "short_sma": 82316.37,
+    "long_sma": 72469.25,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-23",
+    "price": 79134.54,
+    "short_sma": 81952.73,
+    "long_sma": 72518.57,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-24",
+    "price": 80839.19,
+    "short_sma": 81651.03,
+    "long_sma": 72577.3,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-25",
+    "price": 80639.17,
+    "short_sma": 81362.2,
+    "long_sma": 72639.3,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-26",
+    "price": 80398.85,
+    "short_sma": 81023.87,
+    "long_sma": 72695.96,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-27",
+    "price": 80946.48,
+    "short_sma": 80656.93,
+    "long_sma": 72758.54,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-28",
+    "price": 77837.94,
+    "short_sma": 80270.05,
+    "long_sma": 72809.75,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-29",
+    "price": 76322.01,
+    "short_sma": 79818.67,
+    "long_sma": 72855.14,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-30",
+    "price": 76125.08,
+    "short_sma": 79379.4,
+    "long_sma": 72897.36,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-03-31",
+    "price": 76173.91,
+    "short_sma": 79047.72,
+    "long_sma": 72935.38,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-01",
+    "price": 78819.03,
+    "short_sma": 78883.32,
+    "long_sma": 72980.13,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-02",
+    "price": 76301.15,
+    "short_sma": 78771.29,
+    "long_sma": 73018.81,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-03",
+    "price": 74655.21,
+    "short_sma": 78606.82,
+    "long_sma": 73057.28,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-04",
+    "price": 75923.58,
+    "short_sma": 78471.62,
+    "long_sma": 73098.35,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-05",
+    "price": 75204.68,
+    "short_sma": 78271.45,
+    "long_sma": 73136.21,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-06",
+    "price": 70615.25,
+    "short_sma": 77708.22,
+    "long_sma": 73156.48,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-07",
+    "price": 72379.7,
+    "short_sma": 77421.27,
+    "long_sma": 73188.21,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-08",
+    "price": 69776.57,
+    "short_sma": 77053.59,
+    "long_sma": 73210.45,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-09",
+    "price": 74904.86,
+    "short_sma": 76778.64,
+    "long_sma": 73252.85,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-10",
+    "price": 71837.41,
+    "short_sma": 76447.73,
+    "long_sma": 73285.73,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-11",
+    "price": 73492.9,
+    "short_sma": 76275.91,
+    "long_sma": 73323.89,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-12",
+    "price": 75301.12,
+    "short_sma": 76163.02,
+    "long_sma": 73366.63,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-13",
+    "price": 73563.9,
+    "short_sma": 76146.7,
+    "long_sma": 73405.21,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-14",
+    "price": 74454.07,
+    "short_sma": 76203.06,
+    "long_sma": 73450.83,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-15",
+    "price": 74114.35,
+    "short_sma": 76155.08,
+    "long_sma": 73496.1,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-16",
+    "price": 74326.45,
+    "short_sma": 76091.42,
+    "long_sma": 73541.39,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-17",
+    "price": 74750.22,
+    "short_sma": 76093.23,
+    "long_sma": 73590.72,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-18",
+    "price": 74409.77,
+    "short_sma": 76014.93,
+    "long_sma": 73638.32,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-19",
+    "price": 74930.78,
+    "short_sma": 75946.18,
+    "long_sma": 73688.78,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-20",
+    "price": 74722.59,
+    "short_sma": 75923.94,
+    "long_sma": 73750.44,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-21",
+    "price": 76734.02,
+    "short_sma": 75916.78,
+    "long_sma": 73812.44,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-22",
+    "price": 81404.96,
+    "short_sma": 76088.31,
+    "long_sma": 73893.27,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-23",
+    "price": 82110.19,
+    "short_sma": 76171.4,
+    "long_sma": 73975.43,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-24",
+    "price": 82290.93,
+    "short_sma": 76303.73,
+    "long_sma": 74061.31,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-25",
+    "price": 83425.65,
+    "short_sma": 76468.9,
+    "long_sma": 74149.48,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-26",
+    "price": 83177.64,
+    "short_sma": 76629.83,
+    "long_sma": 74231.2,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-27",
+    "price": 82818.88,
+    "short_sma": 76735.1,
+    "long_sma": 74311.51,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-28",
+    "price": 83405.3,
+    "short_sma": 76808.42,
+    "long_sma": 74396.99,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-29",
+    "price": 82718.67,
+    "short_sma": 76867.83,
+    "long_sma": 74486.32,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-04-30",
+    "price": 82997.02,
+    "short_sma": 76942.06,
+    "long_sma": 74586.79,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-01",
+    "price": 84971.48,
+    "short_sma": 77057.06,
+    "long_sma": 74695.81,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-02",
+    "price": 85209.06,
+    "short_sma": 77267.67,
+    "long_sma": 74800.57,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-03",
+    "price": 84820.01,
+    "short_sma": 77510.47,
+    "long_sma": 74911.09,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-04",
+    "price": 83362.7,
+    "short_sma": 77717.26,
+    "long_sma": 75014.21,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-05",
+    "price": 83653.08,
+    "short_sma": 77930.95,
+    "long_sma": 75114.35,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-06",
+    "price": 85171.38,
+    "short_sma": 78112.44,
+    "long_sma": 75220.46,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-07",
+    "price": 85384.75,
+    "short_sma": 78371.97,
+    "long_sma": 75328.75,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-08",
+    "price": 91336.79,
+    "short_sma": 78848.59,
+    "long_sma": 75455.91,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-09",
+    "price": 91478.95,
+    "short_sma": 79293.03,
+    "long_sma": 75578.4,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-10",
+    "price": 92958.9,
+    "short_sma": 79800.29,
+    "long_sma": 75701.47,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-11",
+    "price": 92588.45,
+    "short_sma": 80428.1,
+    "long_sma": 75812.77,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-12",
+    "price": 92730.35,
+    "short_sma": 81009.55,
+    "long_sma": 75922.57,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-13",
+    "price": 93462.18,
+    "short_sma": 81686.28,
+    "long_sma": 76038.59,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-14",
+    "price": 92268.21,
+    "short_sma": 82182.37,
+    "long_sma": 76151.3,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-15",
+    "price": 92546.71,
+    "short_sma": 82774.07,
+    "long_sma": 76254.79,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-16",
+    "price": 92540.84,
+    "short_sma": 83318.3,
+    "long_sma": 76357.86,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-17",
+    "price": 92105.95,
+    "short_sma": 83798.43,
+    "long_sma": 76456.78,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-18",
+    "price": 94777.01,
+    "short_sma": 84404.52,
+    "long_sma": 76566.61,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-19",
+    "price": 93382.49,
+    "short_sma": 84945.33,
+    "long_sma": 76674.82,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-20",
+    "price": 94908.18,
+    "short_sma": 85539.44,
+    "long_sma": 76789.73,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-21",
+    "price": 96856.39,
+    "short_sma": 86183.16,
+    "long_sma": 76911.92,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-22",
+    "price": 98001.06,
+    "short_sma": 86847.47,
+    "long_sma": 77030.03,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-23",
+    "price": 95151.61,
+    "short_sma": 87440.09,
+    "long_sma": 77138.36,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-24",
+    "price": 95435.88,
+    "short_sma": 88025.95,
+    "long_sma": 77247.78,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-25",
+    "price": 96300.15,
+    "short_sma": 88642.45,
+    "long_sma": 77361.99,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-26",
+    "price": 96044.34,
+    "short_sma": 89194.17,
+    "long_sma": 77478.33,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-27",
+    "price": 95734.01,
+    "short_sma": 89603.58,
+    "long_sma": 77596.64,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-28",
+    "price": 95065.91,
+    "short_sma": 89973.74,
+    "long_sma": 77712.67,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-29",
+    "price": 93845.65,
+    "short_sma": 90303.87,
+    "long_sma": 77836.19,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-30",
+    "price": 91799.41,
+    "short_sma": 90543.12,
+    "long_sma": 77955.2,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-05-31",
+    "price": 92314.4,
+    "short_sma": 90804.18,
+    "long_sma": 78083.44,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-01",
+    "price": 92856.2,
+    "short_sma": 91090.96,
+    "long_sma": 78228.19,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-02",
+    "price": 92371.79,
+    "short_sma": 91347.14,
+    "long_sma": 78364.83,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-03",
+    "price": 92828.45,
+    "short_sma": 91635.99,
+    "long_sma": 78505.95,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-04",
+    "price": 92106.88,
+    "short_sma": 91896.27,
+    "long_sma": 78623.81,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-05",
+    "price": 88626.44,
+    "short_sma": 92000.7,
+    "long_sma": 78734.5,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-06",
+    "price": 91173.87,
+    "short_sma": 92171.12,
+    "long_sma": 78852.27,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-07",
+    "price": 92651.41,
+    "short_sma": 92394.88,
+    "long_sma": 78981.26,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-08",
+    "price": 92696.55,
+    "short_sma": 92661.56,
+    "long_sma": 79108.84,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-09",
+    "price": 96412.9,
+    "short_sma": 93026.13,
+    "long_sma": 79245.11,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-10",
+    "price": 95959.49,
+    "short_sma": 93334.36,
+    "long_sma": 79386.85,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-11",
+    "price": 95100.87,
+    "short_sma": 93611.96,
+    "long_sma": 79530.11,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-12",
+    "price": 91614.44,
+    "short_sma": 93619.89,
+    "long_sma": 79656.56,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-13",
+    "price": 91812.46,
+    "short_sma": 93629.42,
+    "long_sma": 79782.54,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-14",
+    "price": 91427.75,
+    "short_sma": 93585.68,
+    "long_sma": 79909.2,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-15",
+    "price": 91273.74,
+    "short_sma": 93548.11,
+    "long_sma": 80034.61,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-16",
+    "price": 92568.87,
+    "short_sma": 93543.5,
+    "long_sma": 80164.81,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-17",
+    "price": 90452.91,
+    "short_sma": 93457.52,
+    "long_sma": 80282.52,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-18",
+    "price": 90927.99,
+    "short_sma": 93419.23,
+    "long_sma": 80404.43,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-19",
+    "price": 91054.22,
+    "short_sma": 93376.59,
+    "long_sma": 80515.98,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-20",
+    "price": 89672.91,
+    "short_sma": 93294.64,
+    "long_sma": 80623.62,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-21",
+    "price": 88038.11,
+    "short_sma": 93178.42,
+    "long_sma": 80723.96,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-22",
+    "price": 87627.53,
+    "short_sma": 92974.15,
+    "long_sma": 80827.92,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-23",
+    "price": 91936.55,
+    "short_sma": 92932.84,
+    "long_sma": 80957.36,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-24",
+    "price": 91016.48,
+    "short_sma": 92821.65,
+    "long_sma": 81083.62,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-25",
+    "price": 92715.7,
+    "short_sma": 92703.34,
+    "long_sma": 81214.44,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-26",
+    "price": 91697.34,
+    "short_sma": 92523.23,
+    "long_sma": 81342.68,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-27",
+    "price": 91411.06,
+    "short_sma": 92416.36,
+    "long_sma": 81470.22,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-28",
+    "price": 91598.13,
+    "short_sma": 92306.71,
+    "long_sma": 81602.75,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-29",
+    "price": 92285.31,
+    "short_sma": 92192.0,
+    "long_sma": 81732.03,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-06-30",
+    "price": 91331.82,
+    "short_sma": 92057.36,
+    "long_sma": 81862.08,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-01",
+    "price": 89354.45,
+    "short_sma": 91875.09,
+    "long_sma": 81985.02,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-02",
+    "price": 92881.5,
+    "short_sma": 91812.67,
+    "long_sma": 82127.3,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-03",
+    "price": 93052.77,
+    "short_sma": 91790.02,
+    "long_sma": 82276.07,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-04",
+    "price": 91785.74,
+    "short_sma": 91789.63,
+    "long_sma": 82419.52,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-05",
+    "price": 91819.22,
+    "short_sma": 91775.48,
+    "long_sma": 82560.61,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-06",
+    "price": 92755.52,
+    "short_sma": 91772.6,
+    "long_sma": 82696.75,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-07",
+    "price": 92219.26,
+    "short_sma": 91768.25,
+    "long_sma": 82829.65,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-08",
+    "price": 92722.92,
+    "short_sma": 91765.23,
+    "long_sma": 82966.0,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-09",
+    "price": 95154.45,
+    "short_sma": 91852.3,
+    "long_sma": 83107.2,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-10",
+    "price": 99271.66,
+    "short_sma": 92156.45,
+    "long_sma": 83256.84,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-11",
+    "price": 100377.92,
+    "short_sma": 92419.43,
+    "long_sma": 83410.94,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-12",
+    "price": 100188.45,
+    "short_sma": 92634.77,
+    "long_sma": 83567.14,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-13",
+    "price": 101496.88,
+    "short_sma": 92886.21,
+    "long_sma": 83731.11,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-14",
+    "price": 102579.34,
+    "short_sma": 93062.39,
+    "long_sma": 83892.83,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-15",
+    "price": 100713.87,
+    "short_sma": 93198.23,
+    "long_sma": 84044.6,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-16",
+    "price": 102106.88,
+    "short_sma": 93398.4,
+    "long_sma": 84197.55,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-17",
+    "price": 103453.48,
+    "short_sma": 93736.66,
+    "long_sma": 84355.27,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-18",
+    "price": 100821.74,
+    "short_sma": 93994.07,
+    "long_sma": 84502.8,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-19",
+    "price": 101092.02,
+    "short_sma": 94270.19,
+    "long_sma": 84651.18,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-20",
+    "price": 100564.27,
+    "short_sma": 94535.64,
+    "long_sma": 84796.9,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-21",
+    "price": 100549.07,
+    "short_sma": 94763.64,
+    "long_sma": 84939.63,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-22",
+    "price": 102497.75,
+    "short_sma": 95107.78,
+    "long_sma": 85093.9,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-23",
+    "price": 100805.61,
+    "short_sma": 95390.0,
+    "long_sma": 85236.17,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-24",
+    "price": 100872.28,
+    "short_sma": 95670.51,
+    "long_sma": 85376.87,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-25",
+    "price": 100019.82,
+    "short_sma": 95966.14,
+    "long_sma": 85514.01,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-26",
+    "price": 100478.83,
+    "short_sma": 96321.59,
+    "long_sma": 85652.24,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-27",
+    "price": 101803.4,
+    "short_sma": 96726.61,
+    "long_sma": 85803.26,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-28",
+    "price": 101132.35,
+    "short_sma": 96989.35,
+    "long_sma": 85957.69,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-29",
+    "price": 101874.9,
+    "short_sma": 97299.59,
+    "long_sma": 86113.98,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-30",
+    "price": 101906.48,
+    "short_sma": 97562.19,
+    "long_sma": 86270.72,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-07-31",
+    "price": 101314.19,
+    "short_sma": 97836.95,
+    "long_sma": 86421.04,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-01",
+    "price": 99396.77,
+    "short_sma": 98065.12,
+    "long_sma": 86564.66,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-02",
+    "price": 98908.46,
+    "short_sma": 98273.98,
+    "long_sma": 86704.83,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-03",
+    "price": 100120.62,
+    "short_sma": 98497.85,
+    "long_sma": 86848.28,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-04",
+    "price": 99498.51,
+    "short_sma": 98731.18,
+    "long_sma": 86990.28,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-05",
+    "price": 98587.15,
+    "short_sma": 98994.97,
+    "long_sma": 87135.03,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-06",
+    "price": 98951.03,
+    "short_sma": 99168.39,
+    "long_sma": 87281.88,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-07",
+    "price": 100696.56,
+    "short_sma": 99386.78,
+    "long_sma": 87427.16,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-08",
+    "price": 100158.24,
+    "short_sma": 99626.0,
+    "long_sma": 87568.75,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-09",
+    "price": 100171.74,
+    "short_sma": 99864.64,
+    "long_sma": 87712.01,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-10",
+    "price": 101906.14,
+    "short_sma": 100126.09,
+    "long_sma": 87849.97,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-11",
+    "price": 101892.97,
+    "short_sma": 100402.48,
+    "long_sma": 87986.41,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-12",
+    "price": 103099.0,
+    "short_sma": 100698.94,
+    "long_sma": 88123.26,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-13",
+    "price": 104985.66,
+    "short_sma": 100979.83,
+    "long_sma": 88268.85,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-14",
+    "price": 101134.26,
+    "short_sma": 101033.05,
+    "long_sma": 88394.99,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-15",
+    "price": 100434.03,
+    "short_sma": 101034.65,
+    "long_sma": 88519.62,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-16",
+    "price": 100245.34,
+    "short_sma": 101036.28,
+    "long_sma": 88641.13,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-17",
+    "price": 100755.72,
+    "short_sma": 101015.1,
+    "long_sma": 88769.11,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-18",
+    "price": 99845.77,
+    "short_sma": 100937.0,
+    "long_sma": 88894.69,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-19",
+    "price": 96762.64,
+    "short_sma": 100824.11,
+    "long_sma": 89011.99,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-20",
+    "price": 98281.18,
+    "short_sma": 100714.8,
+    "long_sma": 89130.34,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-21",
+    "price": 96495.61,
+    "short_sma": 100516.0,
+    "long_sma": 89248.03,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-22",
+    "price": 100623.46,
+    "short_sma": 100510.34,
+    "long_sma": 89377.24,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-23",
+    "price": 99091.66,
+    "short_sma": 100453.19,
+    "long_sma": 89499.07,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-24",
+    "price": 97636.04,
+    "short_sma": 100369.52,
+    "long_sma": 89609.51,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-25",
+    "price": 94324.67,
+    "short_sma": 100191.68,
+    "long_sma": 89699.96,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-26",
+    "price": 95991.7,
+    "short_sma": 100005.79,
+    "long_sma": 89797.54,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-27",
+    "price": 96370.82,
+    "short_sma": 99879.09,
+    "long_sma": 89904.52,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-28",
+    "price": 96240.28,
+    "short_sma": 99746.74,
+    "long_sma": 90013.47,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-29",
+    "price": 93050.45,
+    "short_sma": 99547.62,
+    "long_sma": 90111.19,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-30",
+    "price": 93446.61,
+    "short_sma": 99346.7,
+    "long_sma": 90212.09,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-08-31",
+    "price": 93129.57,
+    "short_sma": 99098.87,
+    "long_sma": 90315.43,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-01",
+    "price": 93114.71,
+    "short_sma": 98869.8,
+    "long_sma": 90413.89,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-02",
+    "price": 95482.48,
+    "short_sma": 98687.16,
+    "long_sma": 90495.51,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-03",
+    "price": 96182.25,
+    "short_sma": 98523.61,
+    "long_sma": 90581.11,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-04",
+    "price": 95196.09,
+    "short_sma": 98348.81,
+    "long_sma": 90660.93,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-05",
+    "price": 94853.61,
+    "short_sma": 98219.0,
+    "long_sma": 90740.96,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-06",
+    "price": 94033.61,
+    "short_sma": 98079.72,
+    "long_sma": 90808.37,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-07",
+    "price": 95144.79,
+    "short_sma": 97937.55,
+    "long_sma": 90849.11,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-08",
+    "price": 95756.92,
+    "short_sma": 97830.65,
+    "long_sma": 90891.4,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-09",
+    "price": 94874.7,
+    "short_sma": 97724.58,
+    "long_sma": 90928.58,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-10",
+    "price": 97159.16,
+    "short_sma": 97673.39,
+    "long_sma": 90977.37,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-11",
+    "price": 98421.64,
+    "short_sma": 97608.39,
+    "long_sma": 91020.11,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-12",
+    "price": 99019.2,
+    "short_sma": 97575.84,
+    "long_sma": 91065.58,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-13",
+    "price": 98830.77,
+    "short_sma": 97537.53,
+    "long_sma": 91111.48,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-14",
+    "price": 98718.07,
+    "short_sma": 97446.44,
+    "long_sma": 91152.8,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-15",
+    "price": 97947.95,
+    "short_sma": 97333.73,
+    "long_sma": 91189.02,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-16",
+    "price": 98823.09,
+    "short_sma": 97211.56,
+    "long_sma": 91222.22,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-17",
+    "price": 98439.01,
+    "short_sma": 97024.51,
+    "long_sma": 91240.37,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-18",
+    "price": 99023.53,
+    "short_sma": 96964.2,
+    "long_sma": 91253.51,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-19",
+    "price": 98427.59,
+    "short_sma": 96906.88,
+    "long_sma": 91268.87,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-20",
+    "price": 98746.66,
+    "short_sma": 96864.06,
+    "long_sma": 91285.77,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-21",
+    "price": 98466.31,
+    "short_sma": 96798.65,
+    "long_sma": 91317.39,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-22",
+    "price": 95730.11,
+    "short_sma": 96681.06,
+    "long_sma": 91345.05,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-23",
+    "price": 94935.63,
+    "short_sma": 96628.86,
+    "long_sma": 91358.02,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-24",
+    "price": 96657.85,
+    "short_sma": 96582.47,
+    "long_sma": 91379.79,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-25",
+    "price": 93119.24,
+    "short_sma": 96486.01,
+    "long_sma": 91381.43,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-26",
+    "price": 93733.98,
+    "short_sma": 96289.16,
+    "long_sma": 91386.68,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-27",
+    "price": 94030.29,
+    "short_sma": 96144.55,
+    "long_sma": 91391.06,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-28",
+    "price": 95975.07,
+    "short_sma": 96097.1,
+    "long_sma": 91408.96,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-29",
+    "price": 97403.43,
+    "short_sma": 96185.06,
+    "long_sma": 91430.38,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-09-30",
+    "price": 96872.21,
+    "short_sma": 96210.22,
+    "long_sma": 91442.16,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-01",
+    "price": 100764.41,
+    "short_sma": 96335.75,
+    "long_sma": 91474.84,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-02",
+    "price": 102609.27,
+    "short_sma": 96517.72,
+    "long_sma": 91501.64,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-03",
+    "price": 104402.42,
+    "short_sma": 96842.06,
+    "long_sma": 91536.39,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-04",
+    "price": 104051.83,
+    "short_sma": 97145.07,
+    "long_sma": 91568.51,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-05",
+    "price": 105119.06,
+    "short_sma": 97487.63,
+    "long_sma": 91611.18,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-06",
+    "price": 107125.48,
+    "short_sma": 97887.93,
+    "long_sma": 91660.68,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-07",
+    "price": 104257.26,
+    "short_sma": 98138.64,
+    "long_sma": 91686.82,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-08",
+    "price": 106046.61,
+    "short_sma": 98420.48,
+    "long_sma": 91723.45,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-09",
+    "price": 104548.52,
+    "short_sma": 98687.69,
+    "long_sma": 91752.29,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-10",
+    "price": 98341.74,
+    "short_sma": 98787.35,
+    "long_sma": 91761.12,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-11",
+    "price": 95808.48,
+    "short_sma": 98838.07,
+    "long_sma": 91755.26,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-12",
+    "price": 99718.67,
+    "short_sma": 98968.75,
+    "long_sma": 91754.87,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-13",
+    "price": 99937.14,
+    "short_sma": 99088.18,
+    "long_sma": 91754.83,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-14",
+    "price": 97873.88,
+    "short_sma": 99173.87,
+    "long_sma": 91760.05,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-15",
+    "price": 95517.87,
+    "short_sma": 99126.98,
+    "long_sma": 91766.76,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-16",
+    "price": 92796.99,
+    "short_sma": 98966.27,
+    "long_sma": 91765.74,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-17",
+    "price": 91426.42,
+    "short_sma": 98749.34,
+    "long_sma": 91759.93,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-18",
+    "price": 91597.11,
+    "short_sma": 98542.66,
+    "long_sma": 91761.32,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-19",
+    "price": 93129.15,
+    "short_sma": 98382.98,
+    "long_sma": 91769.4,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-20",
+    "price": 95147.8,
+    "short_sma": 98302.97,
+    "long_sma": 91772.87,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-21",
+    "price": 93617.52,
+    "short_sma": 98154.24,
+    "long_sma": 91767.95,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-22",
+    "price": 92831.13,
+    "short_sma": 97994.02,
+    "long_sma": 91770.88,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-23",
+    "price": 94708.5,
+    "short_sma": 97870.73,
+    "long_sma": 91785.62,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-24",
+    "price": 95454.36,
+    "short_sma": 97785.78,
+    "long_sma": 91801.78,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-25",
+    "price": 96037.05,
+    "short_sma": 97708.37,
+    "long_sma": 91825.81,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-26",
+    "price": 98863.13,
+    "short_sma": 97719.7,
+    "long_sma": 91860.55,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-27",
+    "price": 97956.83,
+    "short_sma": 97783.32,
+    "long_sma": 91887.49,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-28",
+    "price": 97089.61,
+    "short_sma": 97844.87,
+    "long_sma": 91909.84,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-29",
+    "price": 94676.62,
+    "short_sma": 97788.26,
+    "long_sma": 91912.6,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-30",
+    "price": 93420.74,
+    "short_sma": 97796.87,
+    "long_sma": 91906.56,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-10-31",
+    "price": 94910.17,
+    "short_sma": 97830.48,
+    "long_sma": 91905.0,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-01",
+    "price": 95339.16,
+    "short_sma": 97867.88,
+    "long_sma": 91906.65,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-02",
+    "price": 95599.64,
+    "short_sma": 97857.15,
+    "long_sma": 91900.48,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-03",
+    "price": 92488.65,
+    "short_sma": 97716.73,
+    "long_sma": 91899.1,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-04",
+    "price": 88091.35,
+    "short_sma": 97465.85,
+    "long_sma": 91886.01,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-05",
+    "price": 90203.41,
+    "short_sma": 97164.1,
+    "long_sma": 91888.69,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-06",
+    "price": 87487.02,
+    "short_sma": 96732.04,
+    "long_sma": 91874.17,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-07",
+    "price": 89452.59,
+    "short_sma": 96304.9,
+    "long_sma": 91864.64,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-08",
+    "price": 88171.37,
+    "short_sma": 95851.17,
+    "long_sma": 91854.52,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-09",
+    "price": 90658.84,
+    "short_sma": 95438.02,
+    "long_sma": 91848.46,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-10",
+    "price": 91372.14,
+    "short_sma": 94987.93,
+    "long_sma": 91840.52,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-11",
+    "price": 88656.0,
+    "short_sma": 94542.18,
+    "long_sma": 91812.91,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-12",
+    "price": 87673.41,
+    "short_sma": 94017.23,
+    "long_sma": 91781.46,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-13",
+    "price": 85844.75,
+    "short_sma": 93482.84,
+    "long_sma": 91730.22,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-14",
+    "price": 81103.0,
+    "short_sma": 92990.3,
+    "long_sma": 91664.88,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-15",
+    "price": 81792.3,
+    "short_sma": 92589.84,
+    "long_sma": 91608.53,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-16",
+    "price": 80682.64,
+    "short_sma": 92045.95,
+    "long_sma": 91546.09,
+    "signal": "BTC",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-17",
+    "price": 79212.62,
+    "short_sma": 91453.82,
+    "long_sma": 91469.54,
+    "signal": "CASH",
+    "crossover": "DEATH"
+  },
+  {
+    "date": "2025-11-18",
+    "price": 80102.59,
+    "short_sma": 90946.07,
+    "long_sma": 91405.08,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-19",
+    "price": 78517.95,
+    "short_sma": 90460.36,
+    "long_sma": 91333.45,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-20",
+    "price": 75196.12,
+    "short_sma": 89957.48,
+    "long_sma": 91249.43,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-21",
+    "price": 73552.9,
+    "short_sma": 89446.81,
+    "long_sma": 91161.92,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-22",
+    "price": 73572.47,
+    "short_sma": 88931.82,
+    "long_sma": 91078.17,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-23",
+    "price": 75475.88,
+    "short_sma": 88427.44,
+    "long_sma": 91006.88,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-24",
+    "price": 76592.24,
+    "short_sma": 87897.28,
+    "long_sma": 90940.17,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-25",
+    "price": 75661.48,
+    "short_sma": 87384.25,
+    "long_sma": 90859.91,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-26",
+    "price": 77908.62,
+    "short_sma": 86957.89,
+    "long_sma": 90783.99,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-27",
+    "price": 78773.73,
+    "short_sma": 86502.61,
+    "long_sma": 90718.5,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-28",
+    "price": 78508.2,
+    "short_sma": 86018.43,
+    "long_sma": 90656.71,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-29",
+    "price": 78335.31,
+    "short_sma": 85512.67,
+    "long_sma": 90605.2,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-11-30",
+    "price": 78255.76,
+    "short_sma": 84923.89,
+    "long_sma": 90535.91,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-01",
+    "price": 74188.14,
+    "short_sma": 84244.78,
+    "long_sma": 90467.6,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-02",
+    "price": 78775.37,
+    "short_sma": 83721.52,
+    "long_sma": 90421.22,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-03",
+    "price": 80236.64,
+    "short_sma": 83308.95,
+    "long_sma": 90378.18,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-04",
+    "price": 79106.85,
+    "short_sma": 82899.98,
+    "long_sma": 90333.27,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-05",
+    "price": 76564.22,
+    "short_sma": 82375.81,
+    "long_sma": 90279.79,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-06",
+    "price": 76560.36,
+    "short_sma": 81839.27,
+    "long_sma": 90226.46,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-07",
+    "price": 77312.55,
+    "short_sma": 81316.78,
+    "long_sma": 90170.3,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-08",
+    "price": 77893.4,
+    "short_sma": 80899.78,
+    "long_sma": 90121.38,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-09",
+    "price": 79592.21,
+    "short_sma": 80656.94,
+    "long_sma": 90073.91,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-10",
+    "price": 79210.28,
+    "short_sma": 80342.86,
+    "long_sma": 90028.59,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-11",
+    "price": 78846.53,
+    "short_sma": 80095.98,
+    "long_sma": 89982.14,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-12",
+    "price": 76650.37,
+    "short_sma": 79730.21,
+    "long_sma": 89928.45,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-13",
+    "price": 76771.38,
+    "short_sma": 79404.49,
+    "long_sma": 89878.15,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-14",
+    "price": 74916.62,
+    "short_sma": 78954.71,
+    "long_sma": 89823.21,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-15",
+    "price": 73183.53,
+    "short_sma": 78435.04,
+    "long_sma": 89764.66,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-16",
+    "price": 74292.17,
+    "short_sma": 78024.64,
+    "long_sma": 89704.83,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-17",
+    "price": 73319.25,
+    "short_sma": 77614.53,
+    "long_sma": 89636.6,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-18",
+    "price": 72823.68,
+    "short_sma": 77242.5,
+    "long_sma": 89574.75,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-19",
+    "price": 74979.37,
+    "short_sma": 77067.53,
+    "long_sma": 89517.61,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-20",
+    "price": 75068.49,
+    "short_sma": 76875.43,
+    "long_sma": 89462.84,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-21",
+    "price": 75459.9,
+    "short_sma": 76726.2,
+    "long_sma": 89421.77,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-22",
+    "price": 75173.13,
+    "short_sma": 76610.79,
+    "long_sma": 89390.43,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-23",
+    "price": 74043.98,
+    "short_sma": 76437.69,
+    "long_sma": 89369.84,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-24",
+    "price": 74251.24,
+    "short_sma": 76315.78,
+    "long_sma": 89349.31,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-25",
+    "price": 73887.15,
+    "short_sma": 76278.38,
+    "long_sma": 89326.74,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-26",
+    "price": 74054.33,
+    "short_sma": 76292.71,
+    "long_sma": 89299.56,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-27",
+    "price": 74191.09,
+    "short_sma": 76310.38,
+    "long_sma": 89245.77,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-28",
+    "price": 74259.57,
+    "short_sma": 76275.63,
+    "long_sma": 89218.56,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-29",
+    "price": 74039.96,
+    "short_sma": 76202.71,
+    "long_sma": 89189.87,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-30",
+    "price": 74849.27,
+    "short_sma": 76179.5,
+    "long_sma": 89157.61,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2025-12-31",
+    "price": 74306.77,
+    "short_sma": 76076.59,
+    "long_sma": 89127.23,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-01",
+    "price": 75178.31,
+    "short_sma": 75973.87,
+    "long_sma": 89112.8,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-02",
+    "price": 76840.47,
+    "short_sma": 75926.22,
+    "long_sma": 89104.77,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-03",
+    "price": 76991.86,
+    "short_sma": 75887.83,
+    "long_sma": 89114.29,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-04",
+    "price": 77714.27,
+    "short_sma": 75872.36,
+    "long_sma": 89131.73,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-05",
+    "price": 80558.27,
+    "short_sma": 76054.37,
+    "long_sma": 89147.61,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-06",
+    "price": 79721.23,
+    "short_sma": 76081.39,
+    "long_sma": 89158.17,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-07",
+    "price": 77786.02,
+    "short_sma": 76011.37,
+    "long_sma": 89168.5,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-08",
+    "price": 77842.11,
+    "short_sma": 75975.24,
+    "long_sma": 89170.8,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-09",
+    "price": 77405.75,
+    "short_sma": 75999.28,
+    "long_sma": 89171.03,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-10",
+    "price": 77625.55,
+    "short_sma": 76029.72,
+    "long_sma": 89178.12,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-11",
+    "price": 77718.52,
+    "short_sma": 76041.32,
+    "long_sma": 89180.56,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-12",
+    "price": 77789.47,
+    "short_sma": 76038.35,
+    "long_sma": 89188.52,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-13",
+    "price": 81377.0,
+    "short_sma": 76089.34,
+    "long_sma": 89195.77,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-14",
+    "price": 83132.23,
+    "short_sma": 76201.4,
+    "long_sma": 89214.02,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-15",
+    "price": 81954.41,
+    "short_sma": 76290.19,
+    "long_sma": 89228.38,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-16",
+    "price": 81785.43,
+    "short_sma": 76436.91,
+    "long_sma": 89242.52,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-17",
+    "price": 81827.18,
+    "short_sma": 76581.36,
+    "long_sma": 89251.49,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-18",
+    "price": 80457.26,
+    "short_sma": 76739.66,
+    "long_sma": 89250.22,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-19",
+    "price": 79307.38,
+    "short_sma": 76914.63,
+    "long_sma": 89245.78,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-20",
+    "price": 75047.71,
+    "short_sma": 76936.22,
+    "long_sma": 89227.94,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-21",
+    "price": 76161.11,
+    "short_sma": 77017.41,
+    "long_sma": 89211.99,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-22",
+    "price": 76174.31,
+    "short_sma": 77113.15,
+    "long_sma": 89206.44,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-23",
+    "price": 75927.46,
+    "short_sma": 77140.23,
+    "long_sma": 89205.13,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-24",
+    "price": 75921.93,
+    "short_sma": 77164.62,
+    "long_sma": 89204.45,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-25",
+    "price": 73347.34,
+    "short_sma": 77104.26,
+    "long_sma": 89195.03,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-26",
+    "price": 74439.17,
+    "short_sma": 77083.29,
+    "long_sma": 89180.43,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-27",
+    "price": 74628.86,
+    "short_sma": 77100.0,
+    "long_sma": 89174.86,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-28",
+    "price": 74332.69,
+    "short_sma": 77102.33,
+    "long_sma": 89173.78,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-29",
+    "price": 70335.06,
+    "short_sma": 77000.84,
+    "long_sma": 89155.15,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-30",
+    "price": 70379.38,
+    "short_sma": 76895.84,
+    "long_sma": 89139.07,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-01-31",
+    "price": 65832.43,
+    "short_sma": 76657.02,
+    "long_sma": 89123.13,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-01",
+    "price": 64454.33,
+    "short_sma": 76376.87,
+    "long_sma": 89096.71,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-02",
+    "price": 66220.55,
+    "short_sma": 76153.46,
+    "long_sma": 89084.85,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-03",
+    "price": 63942.59,
+    "short_sma": 75841.84,
+    "long_sma": 89048.31,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-04",
+    "price": 61738.45,
+    "short_sma": 75482.74,
+    "long_sma": 89014.65,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-05",
+    "price": 53254.4,
+    "short_sma": 74856.35,
+    "long_sma": 88947.19,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-06",
+    "price": 59750.15,
+    "short_sma": 74368.05,
+    "long_sma": 88895.35,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-07",
+    "price": 58492.43,
+    "short_sma": 73839.5,
+    "long_sma": 88845.11,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-08",
+    "price": 59598.93,
+    "short_sma": 73321.92,
+    "long_sma": 88795.6,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-09",
+    "price": 59008.68,
+    "short_sma": 72706.21,
+    "long_sma": 88745.25,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-10",
+    "price": 57555.33,
+    "short_sma": 72072.9,
+    "long_sma": 88689.34,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-11",
+    "price": 56192.06,
+    "short_sma": 71455.93,
+    "long_sma": 88627.48,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-12",
+    "price": 55644.03,
+    "short_sma": 70821.7,
+    "long_sma": 88564.93,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-13",
+    "price": 57989.07,
+    "short_sma": 70266.94,
+    "long_sma": 88508.46,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-14",
+    "price": 58800.73,
+    "short_sma": 69729.09,
+    "long_sma": 88455.38,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-15",
+    "price": 57676.82,
+    "short_sma": 69156.47,
+    "long_sma": 88391.86,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-16",
+    "price": 57844.31,
+    "short_sma": 68586.61,
+    "long_sma": 88313.32,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-17",
+    "price": 57060.19,
+    "short_sma": 67891.84,
+    "long_sma": 88229.82,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-18",
+    "price": 55826.41,
+    "short_sma": 67111.67,
+    "long_sma": 88141.61,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-19",
+    "price": 56692.19,
+    "short_sma": 66389.9,
+    "long_sma": 88052.5,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-20",
+    "price": 57597.02,
+    "short_sma": 65698.8,
+    "long_sma": 87967.23,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-21",
+    "price": 57697.16,
+    "short_sma": 65009.37,
+    "long_sma": 87883.49,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-22",
+    "price": 57299.97,
+    "short_sma": 64347.73,
+    "long_sma": 87796.47,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-23",
+    "price": 54805.38,
+    "short_sma": 63647.68,
+    "long_sma": 87703.43,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-24",
+    "price": 54250.62,
+    "short_sma": 63053.47,
+    "long_sma": 87607.61,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-25",
+    "price": 57506.91,
+    "short_sma": 62520.5,
+    "long_sma": 87516.06,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-26",
+    "price": 56928.68,
+    "short_sma": 61970.62,
+    "long_sma": 87421.79,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-27",
+    "price": 55564.68,
+    "short_sma": 61388.83,
+    "long_sma": 87324.27,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-02-28",
+    "price": 56598.1,
+    "short_sma": 60836.72,
+    "long_sma": 87235.06,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-01",
+    "price": 55601.54,
+    "short_sma": 60329.69,
+    "long_sma": 87141.55,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-02",
+    "price": 58848.46,
+    "short_sma": 59884.25,
+    "long_sma": 87053.81,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-03",
+    "price": 58860.21,
+    "short_sma": 59433.71,
+    "long_sma": 86965.39,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-04",
+    "price": 62124.59,
+    "short_sma": 59084.91,
+    "long_sma": 86868.02,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-05",
+    "price": 60984.84,
+    "short_sma": 58817.76,
+    "long_sma": 86766.37,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-06",
+    "price": 58865.23,
+    "short_sma": 58488.78,
+    "long_sma": 86652.73,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-07",
+    "price": 58053.79,
+    "short_sma": 58266.54,
+    "long_sma": 86537.61,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-08",
+    "price": 57157.71,
+    "short_sma": 58058.06,
+    "long_sma": 86419.04,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-09",
+    "price": 59223.53,
+    "short_sma": 57858.15,
+    "long_sma": 86304.91,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-10",
+    "price": 59754.82,
+    "short_sma": 57738.5,
+    "long_sma": 86196.53,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-11",
+    "price": 60563.14,
+    "short_sma": 57704.92,
+    "long_sma": 86089.92,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-12",
+    "price": 60889.6,
+    "short_sma": 57923.07,
+    "long_sma": 85984.41,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-13",
+    "price": 61602.41,
+    "short_sma": 57975.99,
+    "long_sma": 85882.73,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-14",
+    "price": 61760.57,
+    "short_sma": 58069.36,
+    "long_sma": 85772.68,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-15",
+    "price": 63145.45,
+    "short_sma": 58170.69,
+    "long_sma": 85671.89,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-16",
+    "price": 64914.33,
+    "short_sma": 58339.43,
+    "long_sma": 85571.91,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-17",
+    "price": 64154.32,
+    "short_sma": 58527.97,
+    "long_sma": 85462.9,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-18",
+    "price": 61735.78,
+    "short_sma": 58686.36,
+    "long_sma": 85342.02,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-19",
+    "price": 60774.58,
+    "short_sma": 58832.95,
+    "long_sma": 85227.43,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-20",
+    "price": 61012.02,
+    "short_sma": 58919.32,
+    "long_sma": 85112.68,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-21",
+    "price": 59470.3,
+    "short_sma": 58938.45,
+    "long_sma": 84989.92,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-22",
+    "price": 58800.71,
+    "short_sma": 58970.56,
+    "long_sma": 84865.77,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-23",
+    "price": 60951.22,
+    "short_sma": 59059.33,
+    "long_sma": 84749.83,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-24",
+    "price": 60830.76,
+    "short_sma": 59167.06,
+    "long_sma": 84635.71,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-25",
+    "price": 61383.36,
+    "short_sma": 59325.83,
+    "long_sma": 84527.5,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-26",
+    "price": 59537.35,
+    "short_sma": 59407.12,
+    "long_sma": 84419.96,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-27",
+    "price": 57356.49,
+    "short_sma": 59400.25,
+    "long_sma": 84303.44,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-28",
+    "price": 57636.51,
+    "short_sma": 59398.51,
+    "long_sma": 84186.04,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-29",
+    "price": 57203.21,
+    "short_sma": 59395.75,
+    "long_sma": 84068.81,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-30",
+    "price": 57883.64,
+    "short_sma": 59483.7,
+    "long_sma": 83952.33,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-03-31",
+    "price": 59165.75,
+    "short_sma": 59624.13,
+    "long_sma": 83842.52,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-01",
+    "price": 58704.77,
+    "short_sma": 59658.36,
+    "long_sma": 83742.78,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-02",
+    "price": 57910.04,
+    "short_sma": 59686.39,
+    "long_sma": 83631.9,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-03",
+    "price": 57910.76,
+    "short_sma": 59753.43,
+    "long_sma": 83516.1,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-04",
+    "price": 58307.46,
+    "short_sma": 59802.26,
+    "long_sma": 83401.47,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-05",
+    "price": 59670.74,
+    "short_sma": 59918.53,
+    "long_sma": 83279.0,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-06",
+    "price": 59508.76,
+    "short_sma": 59937.39,
+    "long_sma": 83157.5,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-07",
+    "price": 62348.85,
+    "short_sma": 60037.07,
+    "long_sma": 83048.32,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-08",
+    "price": 60647.57,
+    "short_sma": 59994.87,
+    "long_sma": 82945.1,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-09",
+    "price": 61302.27,
+    "short_sma": 60003.94,
+    "long_sma": 82843.4,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-10",
+    "price": 62223.92,
+    "short_sma": 60099.9,
+    "long_sma": 82746.05,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-11",
+    "price": 62369.05,
+    "short_sma": 60223.19,
+    "long_sma": 82649.7,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-12",
+    "price": 60285.99,
+    "short_sma": 60312.57,
+    "long_sma": 82542.09,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-13",
+    "price": 63702.43,
+    "short_sma": 60440.54,
+    "long_sma": 82452.93,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-14",
+    "price": 62808.52,
+    "short_sma": 60527.79,
+    "long_sma": 82359.19,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-15",
+    "price": 63452.82,
+    "short_sma": 60610.35,
+    "long_sma": 82267.19,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-16",
+    "price": 63634.19,
+    "short_sma": 60688.77,
+    "long_sma": 82180.39,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-17",
+    "price": 65291.42,
+    "short_sma": 60794.17,
+    "long_sma": 82104.57,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-18",
+    "price": 64116.62,
+    "short_sma": 60861.48,
+    "long_sma": 82026.2,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-19",
+    "price": 62518.63,
+    "short_sma": 60843.57,
+    "long_sma": 81928.14,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-20",
+    "price": 64395.16,
+    "short_sma": 60828.74,
+    "long_sma": 81839.4,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-21",
+    "price": 64551.78,
+    "short_sma": 60840.1,
+    "long_sma": 81745.52,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-22",
+    "price": 66708.99,
+    "short_sma": 60982.19,
+    "long_sma": 81662.23,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-23",
+    "price": 66821.75,
+    "short_sma": 61154.97,
+    "long_sma": 81580.27,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-24",
+    "price": 65914.69,
+    "short_sma": 61295.04,
+    "long_sma": 81494.65,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-25",
+    "price": 65983.21,
+    "short_sma": 61481.12,
+    "long_sma": 81406.98,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-26",
+    "price": 66864.55,
+    "short_sma": 61711.52,
+    "long_sma": 81325.42,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-27",
+    "price": 65575.84,
+    "short_sma": 61843.65,
+    "long_sma": 81246.16,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-28",
+    "price": 65107.43,
+    "short_sma": 61965.84,
+    "long_sma": 81153.58,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-29",
+    "price": 64561.22,
+    "short_sma": 62056.64,
+    "long_sma": 81058.61,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-04-30",
+    "price": 65063.84,
+    "short_sma": 62214.54,
+    "long_sma": 80969.54,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-01",
+    "price": 66572.57,
+    "short_sma": 62477.86,
+    "long_sma": 80885.38,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-02",
+    "price": 67195.86,
+    "short_sma": 62750.98,
+    "long_sma": 80800.18,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-03",
+    "price": 66953.41,
+    "short_sma": 63029.56,
+    "long_sma": 80715.96,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-04",
+    "price": 68188.87,
+    "short_sma": 63323.99,
+    "long_sma": 80634.18,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-05",
+    "price": 69141.09,
+    "short_sma": 63609.0,
+    "long_sma": 80547.47,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-06",
+    "price": 68911.29,
+    "short_sma": 63900.62,
+    "long_sma": 80446.27,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-07",
+    "price": 67610.09,
+    "short_sma": 64177.76,
+    "long_sma": 80337.04,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-08",
+    "price": 68006.19,
+    "short_sma": 64466.2,
+    "long_sma": 80229.77,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-09",
+    "price": 68500.06,
+    "short_sma": 64757.42,
+    "long_sma": 80119.78,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-10",
+    "price": 69761.87,
+    "short_sma": 65045.74,
+    "long_sma": 80010.39,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-11",
+    "price": 69375.93,
+    "short_sma": 65327.66,
+    "long_sma": 79905.93,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-12",
+    "price": 68583.26,
+    "short_sma": 65505.78,
+    "long_sma": 79794.18,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-13",
+    "price": 67705.0,
+    "short_sma": 65707.42,
+    "long_sma": 79675.02,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-14",
+    "price": 69242.25,
+    "short_sma": 65934.28,
+    "long_sma": 79569.76,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-15",
+    "price": 67917.32,
+    "short_sma": 66096.95,
+    "long_sma": 79459.17,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-16",
+    "price": 66997.28,
+    "short_sma": 66229.18,
+    "long_sma": 79347.28,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-17",
+    "price": 66487.61,
+    "short_sma": 66406.37,
+    "long_sma": 79233.75,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-18",
+    "price": 65890.66,
+    "short_sma": 66468.89,
+    "long_sma": 79111.72,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-19",
+    "price": 65858.19,
+    "short_sma": 66556.03,
+    "long_sma": 78995.23,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-20",
+    "price": 66579.26,
+    "short_sma": 66645.35,
+    "long_sma": 78880.92,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-21",
+    "price": 66654.79,
+    "short_sma": 66731.66,
+    "long_sma": 78769.7,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-22",
+    "price": 65066.76,
+    "short_sma": 66725.24,
+    "long_sma": 78651.66,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-23",
+    "price": 65892.89,
+    "short_sma": 66775.99,
+    "long_sma": 78531.96,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-24",
+    "price": 66058.17,
+    "short_sma": 66877.12,
+    "long_sma": 78415.05,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-25",
+    "price": 66338.29,
+    "short_sma": 66932.64,
+    "long_sma": 78296.59,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-26",
+    "price": 65039.29,
+    "short_sma": 66946.56,
+    "long_sma": 78173.7,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-27",
+    "price": 63798.6,
+    "short_sma": 66863.41,
+    "long_sma": 78048.65,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-28",
+    "price": 63214.79,
+    "short_sma": 66760.35,
+    "long_sma": 77928.04,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-29",
+    "price": 62895.48,
+    "short_sma": 66674.09,
+    "long_sma": 77808.0,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-30",
+    "price": 63186.61,
+    "short_sma": 66594.19,
+    "long_sma": 77684.89,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-05-31",
+    "price": 63165.17,
+    "short_sma": 66488.49,
+    "long_sma": 77563.78,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-01",
+    "price": 61030.55,
+    "short_sma": 66358.63,
+    "long_sma": 77438.59,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-02",
+    "price": 57080.34,
+    "short_sma": 66129.28,
+    "long_sma": 77299.02,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-03",
+    "price": 55187.68,
+    "short_sma": 65861.47,
+    "long_sma": 77147.32,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-04",
+    "price": 54537.6,
+    "short_sma": 65560.72,
+    "long_sma": 76995.25,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-05",
+    "price": 52080.64,
+    "short_sma": 65146.66,
+    "long_sma": 76834.95,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-06",
+    "price": 52019.41,
+    "short_sma": 64713.05,
+    "long_sma": 76668.66,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-07",
+    "price": 54168.03,
+    "short_sma": 64347.75,
+    "long_sma": 76509.58,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-08",
+    "price": 54683.94,
+    "short_sma": 63961.9,
+    "long_sma": 76348.19,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-09",
+    "price": 53282.36,
+    "short_sma": 63508.79,
+    "long_sma": 76175.85,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-10",
+    "price": 53068.46,
+    "short_sma": 63056.14,
+    "long_sma": 76015.63,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-11",
+    "price": 54899.87,
+    "short_sma": 62692.99,
+    "long_sma": 75863.85,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-12",
+    "price": 54817.35,
+    "short_sma": 62316.16,
+    "long_sma": 75712.42,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-13",
+    "price": 55563.48,
+    "short_sma": 61946.55,
+    "long_sma": 75561.78,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-14",
+    "price": 56572.72,
+    "short_sma": 61569.71,
+    "long_sma": 75417.54,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-15",
+    "price": 57106.93,
+    "short_sma": 61219.17,
+    "long_sma": 75285.35,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-16",
+    "price": 56642.37,
+    "short_sma": 60878.0,
+    "long_sma": 75146.56,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-17",
+    "price": 55371.87,
+    "short_sma": 60525.63,
+    "long_sma": 75009.48,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-18",
+    "price": 54811.35,
+    "short_sma": 60113.32,
+    "long_sma": 74856.77,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-19",
+    "price": 55249.71,
+    "short_sma": 59751.38,
+    "long_sma": 74710.63,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-20",
+    "price": 55777.79,
+    "short_sma": 59430.83,
+    "long_sma": 74571.1,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-21",
+    "price": 55293.42,
+    "short_sma": 59110.99,
+    "long_sma": 74441.0,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-22",
+    "price": 55822.35,
+    "short_sma": 58823.33,
+    "long_sma": 74307.1,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-23",
+    "price": 54825.79,
+    "short_sma": 58508.12,
+    "long_sma": 74168.62,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-24",
+    "price": 53723.62,
+    "short_sma": 58140.81,
+    "long_sma": 74026.9,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-25",
+    "price": 52799.61,
+    "short_sma": 57744.95,
+    "long_sma": 73892.73,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-26",
+    "price": 52434.6,
+    "short_sma": 57384.03,
+    "long_sma": 73756.02,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-27",
+    "price": 52591.05,
+    "short_sma": 57003.98,
+    "long_sma": 73620.89,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-28",
+    "price": 52159.52,
+    "short_sma": 56606.88,
+    "long_sma": 73484.37,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-29",
+    "price": 52788.0,
+    "short_sma": 56219.72,
+    "long_sma": 73342.06,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-06-30",
+    "price": 51424.52,
+    "short_sma": 55830.73,
+    "long_sma": 73192.87,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-01",
+    "price": 52821.1,
+    "short_sma": 55517.09,
+    "long_sma": 73051.62,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-02",
+    "price": 53849.51,
+    "short_sma": 55249.51,
+    "long_sma": 72914.94,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-03",
+    "price": 54710.32,
+    "short_sma": 55015.65,
+    "long_sma": 72783.86,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-04",
+    "price": 55101.01,
+    "short_sma": 54784.63,
+    "long_sma": 72650.38,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-05",
+    "price": 55614.17,
+    "short_sma": 54568.89,
+    "long_sma": 72516.57,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-06",
+    "price": 56266.92,
+    "short_sma": 54432.78,
+    "long_sma": 72387.88,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-07",
+    "price": 55530.02,
+    "short_sma": 54388.49,
+    "long_sma": 72249.11,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-08",
+    "price": 54448.79,
+    "short_sma": 54367.38,
+    "long_sma": 72102.54,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-09",
+    "price": 55212.11,
+    "short_sma": 54386.65,
+    "long_sma": 71956.51,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-10",
+    "price": 55918.39,
+    "short_sma": 54496.3,
+    "long_sma": 71813.47,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-11",
+    "price": 55957.1,
+    "short_sma": 54608.8,
+    "long_sma": 71670.94,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-12",
+    "price": 55823.15,
+    "short_sma": 54656.09,
+    "long_sma": 71530.52,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-13",
+    "price": 54282.17,
+    "short_sma": 54644.61,
+    "long_sma": 71382.05,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-14",
+    "price": 56855.0,
+    "short_sma": 54746.69,
+    "long_sma": 71243.44,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-15",
+    "price": 56929.25,
+    "short_sma": 54857.0,
+    "long_sma": 71103.12,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-16",
+    "price": 55727.12,
+    "short_sma": 54880.63,
+    "long_sma": 70960.79,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-17",
+    "price": 55998.8,
+    "short_sma": 54914.39,
+    "long_sma": 70818.29,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-18",
+    "price": 56461.95,
+    "short_sma": 54940.06,
+    "long_sma": 70678.28,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-19",
+    "price": 56448.33,
+    "short_sma": 54936.51,
+    "long_sma": 70547.34,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-20",
+    "price": 57025.54,
+    "short_sma": 54934.18,
+    "long_sma": 70420.97,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-21",
+    "price": 58011.91,
+    "short_sma": 54973.31,
+    "long_sma": 70292.15,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-22",
+    "price": 57738.72,
+    "short_sma": 55040.93,
+    "long_sma": 70174.22,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-23",
+    "price": 56970.52,
+    "short_sma": 55102.63,
+    "long_sma": 70051.67,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-24",
+    "price": 56382.41,
+    "short_sma": 55134.99,
+    "long_sma": 69926.18,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-25",
+    "price": 56404.86,
+    "short_sma": 55152.9,
+    "long_sma": 69794.28,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-26",
+    "price": 57284.88,
+    "short_sma": 55209.8,
+    "long_sma": 69660.55,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-27",
+    "price": 56024.54,
+    "short_sma": 55215.58,
+    "long_sma": 69524.39,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-28",
+    "price": 56090.15,
+    "short_sma": 55251.7,
+    "long_sma": 69375.48,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-29",
+    "price": 56219.49,
+    "short_sma": 55323.02,
+    "long_sma": 69220.85,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-30",
+    "price": 56466.19,
+    "short_sma": 55427.77,
+    "long_sma": 69061.06,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-07-31",
+    "price": 54815.1,
+    "short_sma": 55495.79,
+    "long_sma": 68896.94,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-01",
+    "price": 54592.1,
+    "short_sma": 55552.96,
+    "long_sma": 68728.51,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-02",
+    "price": 55300.77,
+    "short_sma": 55642.71,
+    "long_sma": 68555.76,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-03",
+    "price": 55134.84,
+    "short_sma": 55709.76,
+    "long_sma": 68392.02,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-04",
+    "price": 55786.59,
+    "short_sma": 55834.4,
+    "long_sma": 68224.49,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-05",
+    "price": 55991.84,
+    "short_sma": 55924.99,
+    "long_sma": 68062.63,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-06",
+    "price": 55777.37,
+    "short_sma": 55980.07,
+    "long_sma": 67920.75,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-07",
+    "price": 56296.91,
+    "short_sma": 56025.4,
+    "long_sma": 67789.05,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-08",
+    "price": 56301.39,
+    "short_sma": 56059.7,
+    "long_sma": 67644.32,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-09",
+    "price": 56107.53,
+    "short_sma": 56073.79,
+    "long_sma": 67498.22,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-10",
+    "price": 55363.49,
+    "short_sma": 56047.98,
+    "long_sma": 67356.52,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-11",
+    "price": 55072.93,
+    "short_sma": 56034.92,
+    "long_sma": 67221.71,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-12",
+    "price": 54990.6,
+    "short_sma": 56050.4,
+    "long_sma": 67095.69,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-13",
+    "price": 54964.41,
+    "short_sma": 56043.32,
+    "long_sma": 66974.15,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-14",
+    "price": 54452.63,
+    "short_sma": 56001.44,
+    "long_sma": 66850.33,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-15",
+    "price": 54459.93,
+    "short_sma": 55958.67,
+    "long_sma": 66721.43,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-16",
+    "price": 54331.64,
+    "short_sma": 55916.05,
+    "long_sma": 66585.38,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-17",
+    "price": 55489.93,
+    "short_sma": 55950.56,
+    "long_sma": 66458.29,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-18",
+    "price": 55922.79,
+    "short_sma": 55923.93,
+    "long_sma": 66335.26,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-19",
+    "price": 59753.52,
+    "short_sma": 56004.62,
+    "long_sma": 66218.74,
+    "signal": "CASH",
+    "crossover": null
+  },
+  {
+    "date": "2026-08-20",
+    "price": 62584.84,
+    "short_sma": 56200.56,
+    "long_sma": 66109.18,
+    "signal": "CASH",
+    "crossover": null
+  }
+]

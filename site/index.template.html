@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>{{PAGE_TITLE}}</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div><p class="eyebrow">P1 / SMA35 / SMA300</p><h1>BTC Structure Monitor</h1></div>
+    <div class="freshness" id="freshness">Loading data...</div>
+  </header>
+  <main>
+    <section class="signal-band" id="signal-band">
+      <div>
+        <p class="label">当前技术信号</p><div class="signal" id="signal">--</div>
+        <p class="signal-copy" id="signal-copy">等待完整 UTC 日线数据</p>
+      </div>
+      <dl class="signal-metrics">
+        <div><dt>BTC / EUR</dt><dd id="price">--</dd></div>
+        <div><dt>SMA35</dt><dd id="short-sma">--</dd></div>
+        <div><dt>SMA300</dt><dd id="long-sma">--</dd></div>
+        <div><dt>均线距离</dt><dd id="gap">--</dd></div>
+      </dl>
+    </section>
+    <section class="chart-section">
+      <div class="section-heading">
+        <div><p class="eyebrow">Technical regime</p><h2>价格与趋势</h2></div>
+        <div class="legend"><span>价格</span><span class="short-key">SMA35</span><span class="long-key">SMA300</span></div>
+      </div>
+      <div class="chart-wrap"><canvas id="trend-chart" aria-label="BTC EUR price and moving averages"></canvas></div>
+    </section>
+    <section class="status-grid single">
+      <article class="panel">
+        <p class="eyebrow">Strategy health</p><h2>趋势结构</h2>
+        <dl class="rows">
+          <div><dt>过去12个月交叉</dt><dd id="cross-count">--</dd></div>
+          <div><dt>60天内快速反转</dt><dd id="rapid-count">--</dd></div>
+          <div><dt>数据源状态</dt><dd id="data-health">--</dd></div>
+          <div><dt>数据源差异</dt><dd id="divergence">--</dd></div>
+        </dl>
+      </article>
+    </section>
+  </main>
+  <footer>Read-only technical monitor. No exchange or wallet connection.</footer>
+  <script src="assets/app.js"></script>
+</body>
+</html>

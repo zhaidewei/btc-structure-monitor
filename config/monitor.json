@@ -1,0 +1,17 @@
+{
+  "strategy": {
+    "name": "P1 / SMA35 / SMA300",
+    "short_window": 35,
+    "long_window": 300,
+    "timezone": "UTC",
+    "watch_band_pct": 2.0,
+    "quote_currency": "EUR"
+  },
+  "market": {
+    "primary_pair_id": 121,
+    "primary_name": "Uniswap V2 WBTC-USDC",
+    "validation_instrument": "BTC-EUR",
+    "max_source_divergence_pct": 1.0,
+    "stale_after_hours": 36
+  }
+}

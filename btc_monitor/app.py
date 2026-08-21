@@ -20,13 +20,31 @@ SITE = ROOT / "site"
 DATA = SITE / "data"
 
 
+def build_chart_history(
+    signal_history: list[dict[str, object]], chart_start: dt.date
+) -> list[dict[str, object]]:
+    return [
+        {
+            "date": row["date"].isoformat(),
+            "price": round(float(row["price"]), 2),
+            "short_sma": round(float(row["short_sma"]), 2),
+            "long_sma": round(float(row["long_sma"]), 2),
+            "signal": row["signal"],
+            "crossover": row["crossover"],
+        }
+        for row in signal_history
+        if isinstance(row["date"], dt.date) and row["date"] >= chart_start
+    ]
+
+
 def run_monitor() -> dict[str, Any]:
     config = load_config()
     strategy = config["strategy"]
     market = config["market"]
     now = dt.datetime.now(dt.timezone.utc)
 
-    start = now.date() - dt.timedelta(days=int(market["history_days"]))
+    start = dt.date.fromisoformat(str(market["history_start"]))
+    chart_start = dt.date.fromisoformat(str(market["chart_start"]))
     points = latest_complete_points(
         fetch_coinbase_candles(str(market["primary_instrument"]), start, now.date()), now
     )
@@ -62,17 +80,7 @@ def run_monitor() -> dict[str, Any]:
     }
 
     write_json(DATA / "status.json", status)
-    chart_history = [
-        {
-            "date": row["date"].isoformat(),
-            "price": round(float(row["price"]), 2),
-            "short_sma": round(float(row["short_sma"]), 2),
-            "long_sma": round(float(row["long_sma"]), 2),
-            "signal": row["signal"],
-            "crossover": row["crossover"],
-        }
-        for row in signal_history[-730:]
-    ]
+    chart_history = build_chart_history(signal_history, chart_start)
     write_json(DATA / "history.json", chart_history)
     render_index(SITE / "index.template.html", SITE / "index.html", "BTC Structure Monitor")
 

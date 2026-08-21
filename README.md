@@ -14,6 +14,7 @@ The repository contains no exchange trading integration.
 - Daily BTC/CASH state from completed UTC SMA35 and SMA300 values.
 - Distance to crossover, crossover frequency, and rapid reversals.
 - Direct Coinbase BTC-EUR primary data versus OKX BTC-EUR validation.
+- Price and trend history from 2019-01-01, with 2018 retained as the SMA300 warm-up period.
 
 ## Local run
 

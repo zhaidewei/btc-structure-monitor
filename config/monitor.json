@@ -11,7 +11,8 @@
     "primary_instrument": "BTC-EUR",
     "primary_name": "Coinbase BTC-EUR",
     "validation_instrument": "BTC-EUR",
-    "history_days": 1100,
+    "history_start": "2018-01-01",
+    "chart_start": "2019-01-01",
     "max_source_divergence_pct": 1.0,
     "stale_after_hours": 36
   }

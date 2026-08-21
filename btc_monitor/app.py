@@ -7,12 +7,9 @@ from typing import Any
 from .config import ROOT, load_config
 from .io import read_json, write_json
 from .market import (
-    convert_to_eur,
-    fetch_ecb_eur_usd,
+    fetch_coinbase_candles,
     fetch_okx_last_confirmed_close,
-    fetch_uniswap_candles,
     latest_complete_points,
-    serialise_points,
 )
 from .notify import notify
 from .render import render_index
@@ -29,8 +26,10 @@ def run_monitor() -> dict[str, Any]:
     market = config["market"]
     now = dt.datetime.now(dt.timezone.utc)
 
-    candles = fetch_uniswap_candles(int(market["primary_pair_id"]))
-    points = latest_complete_points(convert_to_eur(candles, fetch_ecb_eur_usd()), now)
+    start = now.date() - dt.timedelta(days=int(market["history_days"]))
+    points = latest_complete_points(
+        fetch_coinbase_candles(str(market["primary_instrument"]), start, now.date()), now
+    )
     snapshot, signal_history = build_snapshot(
         points,
         int(strategy["short_window"]),
@@ -41,7 +40,10 @@ def run_monitor() -> dict[str, Any]:
     validation_day, validation_price = fetch_okx_last_confirmed_close(market["validation_instrument"])
     primary_price = snapshot.last_price
     divergence = abs(primary_price / validation_price - 1.0) * 100.0
-    source_ok = divergence <= float(market["max_source_divergence_pct"])
+    source_ok = (
+        divergence <= float(market["max_source_divergence_pct"])
+        and snapshot.as_of == validation_day.isoformat()
+    )
     previous = read_json(DATA / "status.json", {})
 
     status: dict[str, Any] = {

@@ -8,9 +8,10 @@
     "quote_currency": "EUR"
   },
   "market": {
-    "primary_pair_id": 121,
-    "primary_name": "Uniswap V2 WBTC-USDC",
+    "primary_instrument": "BTC-EUR",
+    "primary_name": "Coinbase BTC-EUR",
     "validation_instrument": "BTC-EUR",
+    "history_days": 1100,
     "max_source_divergence_pct": 1.0,
     "stale_after_hours": 36
   }

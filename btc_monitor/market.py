@@ -1,15 +1,10 @@
 from __future__ import annotations
 
-import csv
 import datetime as dt
-import io
 import json
 import urllib.parse
 import urllib.request
-import zipfile
-from bisect import bisect_right
-from dataclasses import asdict, dataclass
-from typing import Iterable
+from dataclasses import dataclass
 
 
 UA = "btc-structure-monitor/0.1"
@@ -28,47 +23,34 @@ def _request(url: str, timeout: int = 60) -> bytes:
         return response.read()
 
 
-def fetch_uniswap_candles(pair_id: int) -> list[tuple[dt.date, float, float]]:
-    url = "https://tradingstrategy.ai/api/candles-jsonl?" + urllib.parse.urlencode(
-        {"pair_ids": str(pair_id), "time_bucket": "1d"}
-    )
-    request = urllib.request.Request(url, headers={"User-Agent": UA})
-    rows: list[tuple[dt.date, float, float]] = []
-    with urllib.request.urlopen(request, timeout=90) as response:
-        for raw in response:
-            if not raw.strip():
-                continue
-            item = json.loads(raw)
-            day = dt.datetime.fromtimestamp(item["ts"], dt.timezone.utc).date()
-            rows.append((day, float(item["o"]), float(item["c"])))
-    rows.sort(key=lambda row: row[0])
-    return rows
-
-
-def fetch_ecb_eur_usd() -> dict[dt.date, float]:
-    raw = _request("https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip")
-    archive = zipfile.ZipFile(io.BytesIO(raw))
-    text = archive.read(archive.namelist()[0]).decode("utf-8-sig")
-    result: dict[dt.date, float] = {}
-    for row in csv.DictReader(io.StringIO(text)):
-        if row.get("USD") in (None, "", "N/A"):
-            continue
-        result[dt.date.fromisoformat(row["Date"])] = float(row["USD"])
-    return result
-
-
-def convert_to_eur(
-    candles: Iterable[tuple[dt.date, float, float]], fx: dict[dt.date, float]
+def fetch_coinbase_candles(
+    product_id: str, start: dt.date, end: dt.date
 ) -> list[PricePoint]:
-    fx_dates = sorted(fx)
-    points: list[PricePoint] = []
-    for day, open_usd, close_usd in candles:
-        index = bisect_right(fx_dates, day) - 1
-        if index < 0:
-            continue
-        usd_per_eur = fx[fx_dates[index]]
-        points.append(PricePoint(day, open_usd / usd_per_eur, close_usd / usd_per_eur))
-    return points
+    if end < start:
+        raise ValueError("end must not be earlier than start")
+    rows_by_day: dict[dt.date, PricePoint] = {}
+    cursor = start
+    while cursor <= end:
+        chunk_end = min(cursor + dt.timedelta(days=290), end)
+        params = urllib.parse.urlencode(
+            {
+                "granularity": "86400",
+                "start": f"{cursor.isoformat()}T00:00:00Z",
+                "end": f"{chunk_end.isoformat()}T00:00:00Z",
+            }
+        )
+        url = f"https://api.exchange.coinbase.com/products/{product_id}/candles?{params}"
+        payload = json.loads(_request(url))
+        if not isinstance(payload, list):
+            raise RuntimeError(f"Coinbase returned an invalid response for {product_id}")
+        for row in payload:
+            if not isinstance(row, list) or len(row) < 5:
+                continue
+            day = dt.datetime.fromtimestamp(int(row[0]), dt.timezone.utc).date()
+            if start <= day <= end:
+                rows_by_day[day] = PricePoint(day, float(row[3]), float(row[4]))
+        cursor = chunk_end + dt.timedelta(days=1)
+    return [rows_by_day[day] for day in sorted(rows_by_day)]
 
 
 def fetch_okx_last_confirmed_close(instrument: str) -> tuple[dt.date, float]:
@@ -85,7 +67,3 @@ def fetch_okx_last_confirmed_close(instrument: str) -> tuple[dt.date, float]:
 def latest_complete_points(points: list[PricePoint], now: dt.datetime | None = None) -> list[PricePoint]:
     current = now or dt.datetime.now(dt.timezone.utc)
     return [point for point in points if point.date < current.date()]
-
-
-def serialise_points(points: Iterable[PricePoint]) -> list[dict[str, object]]:
-    return [{**asdict(point), "date": point.date.isoformat()} for point in points]

@@ -13,7 +13,7 @@ The repository contains no exchange trading integration.
 
 - Daily BTC/CASH state from completed UTC SMA35 and SMA300 values.
 - Distance to crossover, crossover frequency, and rapid reversals.
-- Primary-versus-validation market-data divergence.
+- Direct Coinbase BTC-EUR primary data versus OKX BTC-EUR validation.
 
 ## Local run
 

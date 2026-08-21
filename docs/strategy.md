@@ -16,4 +16,4 @@ P1 means daily evaluation, not daily trading. The monitor changes state only whe
 
 The dashboard signal is deterministic and cannot execute trades.
 
-The monitor uses Uniswap V2 WBTC-USDC daily data as the primary series, converts it to EUR with ECB reference rates, and checks the latest completed price against OKX BTC-EUR. A source divergence above the configured threshold fails data health closed.
+The monitor uses direct Coinbase BTC-EUR completed UTC daily candles and checks the latest completed close against OKX BTC-EUR. It does not derive the production signal by converting a USD or stablecoin series. A date mismatch or source divergence above the configured threshold fails data health closed.

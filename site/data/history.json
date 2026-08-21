@@ -875,7 +875,7 @@
     "date": "2024-12-08",
     "price": 95685.97,
     "short_sma": 85618.04,
-    "long_sma": 61623.35,
+    "long_sma": 61623.36,
     "signal": "BTC",
     "crossover": null
   },
@@ -1635,7 +1635,7 @@
     "date": "2025-03-13",
     "price": 74705.46,
     "short_sma": 86614.25,
-    "long_sma": 72160.05,
+    "long_sma": 72160.04,
     "signal": "BTC",
     "crossover": null
   },
@@ -1979,7 +1979,7 @@
     "date": "2025-04-25",
     "price": 83332.8,
     "short_sma": 76549.99,
-    "long_sma": 74274.61,
+    "long_sma": 74274.6,
     "signal": "BTC",
     "crossover": null
   },

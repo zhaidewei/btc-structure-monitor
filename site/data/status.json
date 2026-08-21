@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:54:07.389457+00:00",
+  "generated_at": "2026-08-21T09:55:29.428904+00:00",
   "strategy": {
     "name": "P1 / SMA35 / SMA300",
     "short_window": 35,
@@ -12,8 +12,8 @@
     "as_of": "2026-08-20",
     "signal": "CASH",
     "short_sma": 56200.55512746468,
-    "long_sma": 66109.17753791784,
-    "gap_pct": -14.988270584322327,
+    "long_sma": 66109.17753791771,
+    "gap_pct": -14.98827058432216,
     "last_price": 62584.83588958156,
     "watch_band": false,
     "crossover": null,

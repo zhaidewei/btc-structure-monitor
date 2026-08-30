@@ -22374,5 +22374,13 @@
     "long_sma": 65463.97,
     "signal": "CASH",
     "crossover": null
+  },
+  {
+    "date": "2026-08-29",
+    "price": 67581.56,
+    "short_sma": 58831.3,
+    "long_sma": 65369.77,
+    "signal": "CASH",
+    "crossover": null
   }
 ]

@@ -21,8 +21,26 @@ dt { color: var(--muted); font-size: 12px; } dd { margin: 6px 0 0; font-size: 19
 .legend { display: flex; gap: 18px; color: var(--muted); font-size: 12px; }
 .legend span::before { content: ""; width: 18px; height: 3px; margin-right: 6px; display: inline-block; vertical-align: middle; background: var(--blue); }
 .legend .short-key::before { background: var(--green); } .legend .long-key::before { background: var(--purple); }
-.chart-wrap { height: 360px; width: 100%; background: var(--surface); border: 1px solid var(--line); padding: 12px; }
-#trend-chart { width: 100%; height: 100%; display: block; }
+.legend .btc-zone-key::before, .legend .cash-zone-key::before { height: 10px; border-left: 2px solid; }
+.legend .btc-zone-key::before { border-color: var(--green); background: rgba(22, 122, 91, 0.14); }
+.legend .cash-zone-key::before { border-color: var(--red); background: rgba(187, 62, 56, 0.12); }
+.chart-wrap { position: relative; height: 410px; width: 100%; background: var(--surface); border: 1px solid var(--line); padding: 12px; }
+#trend-chart { width: 100%; height: 100%; display: block; cursor: crosshair; }
+.chart-tooltip { position: absolute; z-index: 2; min-width: 218px; padding: 11px 13px; border: 1px solid #cbd3dc; border-radius: 4px; background: rgba(255, 255, 255, 0.97); box-shadow: 0 4px 14px rgba(23, 32, 42, 0.12); pointer-events: none; }
+.chart-tooltip strong { display: block; font-size: 12px; } .chart-tooltip > span { color: var(--muted); font-size: 11px; }
+.chart-tooltip dl { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 8px 0 0; }
+.chart-tooltip dd { margin-top: 2px; font-size: 14px; }
+.period-results { margin-top: 18px; }
+.period-results-heading { min-height: 34px; display: flex; align-items: baseline; justify-content: space-between; gap: 16px; }
+.period-results-heading h2 { font-size: 15px; } .period-results-heading span { color: var(--muted); font-size: 11px; }
+.period-table-wrap { overflow-x: auto; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); background: var(--surface); }
+table { width: 100%; min-width: 720px; border-collapse: collapse; font-size: 12px; font-variant-numeric: tabular-nums; }
+th, td { padding: 8px 12px; border-bottom: 1px solid #edf0f3; text-align: right; white-space: nowrap; }
+th:first-child, td:first-child, th:nth-child(2), td:nth-child(2) { text-align: left; }
+thead th { color: var(--muted); font-size: 11px; font-weight: 600; }
+tbody tr:last-child th, tbody tr:last-child td { border-bottom: 0; }
+.state-btc { color: var(--green); } .state-cash { color: var(--red); }
+.positive { color: var(--green); } .negative { color: var(--red); }
 .status-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; padding: 28px 0; border-bottom: 1px solid var(--line); }
 .status-grid.single { grid-template-columns: 1fr; }
 .panel { min-height: 230px; padding: 22px; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; }
@@ -30,4 +48,4 @@ dt { color: var(--muted); font-size: 12px; } dd { margin: 6px 0 0; font-size: 19
 .rows dd { margin: 0; font-size: 15px; }
 footer { padding: 20px 24px; border-top: 1px solid var(--line); color: var(--muted); text-align: center; font-size: 12px; background: var(--surface); }
 @media (max-width: 900px) { .signal-band { grid-template-columns: 1fr; } .signal-metrics { grid-template-columns: repeat(2, 1fr); } .signal-metrics div:nth-child(odd) { border-left: 0; } }
-@media (max-width: 620px) { .topbar { align-items: stretch; flex-direction: column; gap: 10px; } h1 { font-size: 21px; } .freshness { text-align: left; } main { padding: 18px 14px 42px; } .signal-band { padding: 22px 18px; } .signal { font-size: 34px; } .signal-metrics div { padding: 10px 8px; } dd { font-size: 16px; } .chart-wrap { height: 280px; } .status-grid { grid-template-columns: 1fr; } .legend { display: none; } }
+@media (max-width: 620px) { .topbar { align-items: stretch; flex-direction: column; gap: 10px; } h1 { font-size: 21px; } .freshness { text-align: left; } main { padding: 18px 14px 42px; } .signal-band { padding: 22px 18px; } .signal { font-size: 34px; } .signal-metrics div { padding: 10px 8px; } dd { font-size: 16px; } .chart-wrap { height: 320px; } .status-grid { grid-template-columns: 1fr; } .legend { display: none; } .period-results-heading { align-items: flex-start; flex-direction: column; gap: 2px; } }

@@ -28,9 +28,24 @@
     <section class="chart-section">
       <div class="section-heading">
         <div><p class="eyebrow">Technical regime</p><h2>价格与趋势</h2></div>
-        <div class="legend"><span>价格</span><span class="short-key">SMA35</span><span class="long-key">SMA300</span></div>
+        <div class="legend"><span>价格</span><span class="short-key">SMA35</span><span class="long-key">SMA300</span><span class="btc-zone-key">ALL BTC</span><span class="cash-zone-key">ALL CASH</span></div>
       </div>
-      <div class="chart-wrap"><canvas id="trend-chart" aria-label="BTC EUR price and moving averages"></canvas></div>
+      <div class="chart-wrap">
+        <canvas id="trend-chart" aria-label="BTC EUR price, moving averages and position intervals"></canvas>
+        <div class="chart-tooltip" id="chart-tooltip" hidden>
+          <strong id="tooltip-title">--</strong><span id="tooltip-dates">--</span>
+          <dl><div><dt>策略收益</dt><dd id="tooltip-strategy">--</dd></div><div><dt>BTC同期</dt><dd id="tooltip-btc">--</dd></div></dl>
+        </div>
+      </div>
+      <div class="period-results">
+        <div class="period-results-heading"><h2>区间收益</h2><span>按切换日收盘价；现金收益 0%；未计交易费与利息</span></div>
+        <div class="period-table-wrap">
+          <table>
+            <thead><tr><th>区间</th><th>仓位</th><th>策略收益</th><th>BTC同期</th><th>状态</th></tr></thead>
+            <tbody id="period-body"></tbody>
+          </table>
+        </div>
+      </div>
     </section>
     <section class="status-grid single">
       <article class="panel">

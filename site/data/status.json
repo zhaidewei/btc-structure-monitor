@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T06:11:05.684264+00:00",
+  "generated_at": "2026-09-16T04:56:08.220947+00:00",
   "strategy": {
     "name": "P1 / SMA35 / SMA300",
     "short_window": 35,
@@ -9,24 +9,28 @@
     "quote_currency": "EUR"
   },
   "signal": {
-    "as_of": "2026-09-14",
-    "signal": "CASH",
-    "short_sma": 64230.879428571425,
-    "long_sma": 64353.213266666666,
-    "gap_pct": -0.1900974821386403,
-    "last_price": 67677.97,
+    "as_of": "2026-09-15",
+    "signal": "BTC",
+    "short_sma": 64530.252571428566,
+    "long_sma": 64307.394,
+    "gap_pct": 0.34655201768643007,
+    "last_price": 65527.23,
     "watch_band": true,
-    "crossover": null,
-    "crossover_count_12m": 1,
+    "crossover": "GOLDEN",
+    "crossover_count_12m": 2,
     "rapid_reversal_count_12m": 0
   },
   "data_health": {
     "status": "ok",
     "primary": "Coinbase BTC-EUR",
-    "primary_as_of": "2026-09-14",
+    "primary_as_of": "2026-09-15",
     "validation": "BTC-EUR",
-    "validation_as_of": "2026-09-14",
-    "validation_price": 67671.4,
-    "divergence_pct": 0.009708680476538945
+    "validation_as_of": "2026-09-15",
+    "validation_price": 65542.4,
+    "divergence_pct": 0.02314532272237324
+  },
+  "notification": {
+    "channels": [],
+    "reason": "signal_change"
   }
 }

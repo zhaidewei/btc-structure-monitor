@@ -22510,5 +22510,13 @@
     "long_sma": 64353.21,
     "signal": "CASH",
     "crossover": null
+  },
+  {
+    "date": "2026-09-15",
+    "price": 65527.23,
+    "short_sma": 64530.25,
+    "long_sma": 64307.39,
+    "signal": "BTC",
+    "crossover": "GOLDEN"
   }
 ]

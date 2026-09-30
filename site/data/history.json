@@ -22622,5 +22622,13 @@
     "long_sma": 64123.41,
     "signal": "BTC",
     "crossover": null
+  },
+  {
+    "date": "2026-09-29",
+    "price": 73750.39,
+    "short_sma": 69452.63,
+    "long_sma": 64102.23,
+    "signal": "BTC",
+    "crossover": null
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:10:49.956122+00:00",
+  "generated_at": "2026-10-15T04:50:02.101188+00:00",
   "strategy": {
     "name": "P1 / SMA35 / SMA300",
     "short_window": 35,
@@ -9,12 +9,12 @@
     "quote_currency": "EUR"
   },
   "signal": {
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-14",
     "signal": "BTC",
-    "short_sma": 72154.826,
-    "long_sma": 64002.298500000004,
-    "gap_pct": 12.737866750207406,
-    "last_price": 74206.34,
+    "short_sma": 72314.90057142857,
+    "long_sma": 64002.392133333335,
+    "gap_pct": 12.987808988104943,
+    "last_price": 72920.78,
     "watch_band": false,
     "crossover": null,
     "crossover_count_12m": 2,
@@ -23,10 +23,10 @@
   "data_health": {
     "status": "ok",
     "primary": "Coinbase BTC-EUR",
-    "primary_as_of": "2026-10-13",
+    "primary_as_of": "2026-10-14",
     "validation": "BTC-EUR",
-    "validation_as_of": "2026-10-13",
-    "validation_price": 74205.6,
-    "divergence_pct": 0.0009972293196103266
+    "validation_as_of": "2026-10-14",
+    "validation_price": 72899.0,
+    "divergence_pct": 0.02987695304461635
   }
 }

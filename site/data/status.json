@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T07:59:37.772126+00:00",
+  "generated_at": "2026-11-28T08:55:34.341918+00:00",
   "strategy": {
     "name": "P1 / SMA35 / SMA300",
     "short_window": 35,
@@ -12,8 +12,8 @@
     "as_of": "2026-11-27",
     "signal": "BTC",
     "short_sma": 63848.178,
-    "long_sma": 62433.4841,
-    "gap_pct": 2.265921757200151,
+    "long_sma": 62433.0943,
+    "gap_pct": 2.2665602528048945,
     "last_price": 54734.64,
     "watch_band": false,
     "crossover": null,
